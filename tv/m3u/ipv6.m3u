@@ -367,8 +367,6 @@ http://116.202.46.40:9023/JAYA_TV_TAMIL/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/6660/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-id="3389" tvg-logo="http://epg.it999.ru/img/3389.png",Sony SAB印度
 http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/6571/index.m3u8
-#EXTINF:0 group-title=亚洲频道" tvg-id="3394" tvg-logo="http://epg.it999.ru/img/3394.png",Zee TV印度
-http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/6576/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-id="3532" tvg-logo="http://epg.it999.ru/img/3532.png",ARY Digital巴基斯坦
 http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/6719/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-id="3534" tvg-logo="http://epg.it999.ru/img/3534.png",Express News巴基斯坦
@@ -709,3 +707,44 @@ http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=166782&exte
 http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=166784&extension=ts&play_token=QYwxl1R36u&sn2=
 #EXTINF:-1 tvg-id="NCTV.cl" tvg-logo="https://i.imgur.com/oo5vDBv.png" group-title="美洲频道",NCTV🇨🇱
 https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="欢笑剧场4K" tvg-logo="https://iptv-pro.github.io/logo/%E6%AC%A2%E7%AC%91%E5%89%A7%E5%9C%BA4K.png" group-title="4K超高清",欢笑剧场4K
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227970/index.m3u8
+#EXTINF:0 group-title="4K超高清" tvg-id="6707" tvg-logo="http://epg.it999.ru/img/6707.png",BOX Music 4K
+http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/19282/index.m3u8
+#EXTINF:0 group-title="4K超高清" tvg-id="2743" tvg-logo="http://epg.it999.ru/img/2743.png",Ultra HD Cinema 4K
+http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/4000/index.m3u8
+#EXTINF:0 group-title="4K超高清" tvg-id="2804" tvg-logo="http://epg.it999.ru/img/2804.png",4K超高清 UHD 4K
+http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/5004/index.m3u8
+#EXTINF:0 group-title="4K超高清" tvg-id="2749" tvg-logo="http://epg.it999.ru/img/2749.png",Сериал UHD 4K
+http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/5005/index.m3u8
+#EXTINF:0 group-title="4K超高清" tvg-id="6340" tvg-logo="http://epg.it999.ru/img/6340.png",Liberty Индия 4K
+http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/18160/index.m3u8
+#EXTINF:0 group-title="4K超高清" tvg-id="6230" tvg-logo="http://epg.it999.ru/img/6230.png",LibertyUKR 4K
+http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/18045/index.m3u8
+#EXTINF:0 group-title="4K超高清" tvg-id="2801" tvg-logo="http://epg.it999.ru/img/2801.png" ="3",Love Nature 4K
+http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/5001/index.m3u8
+#EXTINF:0 group-title="4K超高清" tvg-id="2800" tvg-logo="http://epg.it999.ru/img/2800.png" ="3",Insight UHD 4K
+http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/5000/index.m3u8
+#EXTINF:0 group-title="4K超高清" tvg-id="5979" tvg-logo="http://epg.it999.ru/img/5979.png",Глазами Туриста 4K
+http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/15191/index.m3u8
+#EXTINF:0 group-title="4K超高清" tvg-id="5980" tvg-logo="http://epg.it999.ru/img/5980.png",NASA TV 4K
+http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/15239/index.m3u8
+#EXTINF:0 group-title="4K超高清" tvg-id="2745" tvg-logo="http://epg.it999.ru/img/2745.png" ="3",Home 4K
+http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/4002/index.m3u8
+#EXTINF:0 group-title="4K超高清" tvg-id="5456" tvg-logo="http://epg.it999.ru/img/5456.png",SKY HIGH NATURE 4K
+http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/14247/index.m3u8
+#EXTINF:0 group-title="4K超高清",Museum 4K
+http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/14016/index.m3u8
+#EXTINF:0 group-title="4K超高清" tvg-id="2802" tvg-logo="http://epg.it999.ru/img/2802.png" ="3",MyZen TV 4K
+http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/5002/index.m3u8
+#EXTINF:0 group-title="4K超高清" tvg-id="6185" tvg-logo="http://epg.it999.ru/img/6185.png",BCU Kids 4K
+http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/17023/index.m3u8
+#EXTINF:0 group-title="4K超高清" tvg-id="6232" tvg-logo="http://epg.it999.ru/img/6232.png",Liberty Мульт 4K
+http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/18051/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport.4K.ro" tvg-logo="https://i.imgur.com/APE7FAm.jpg" group-title="4K超高清",EuroSport4K 
+https://7pal.short.gy/eusport4k
+#EXTINF:-1,tvg-id="Fashion-4K" tvg-name="Fashion-4K" tvg-logo="https://epg.112114.xyz/logo/FASHION4K.png" group-title="4K超高清",Fashion-4K
+http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
+http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/230039
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K超高清",SES UHD 4K
+http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/185059
