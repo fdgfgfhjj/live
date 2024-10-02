@@ -59,21 +59,6 @@ http://[2001:250:5800:1005::155]:80/liverespath/449d51febadb152094085d373b9af94a
 https://0472.org/hls/cgtn.m3u8
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.com/tv/CGTN纪录.png" group-title="央视频道",CGTN记录
 https://0472.org/hls/cgtnd.m3u8
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰中文
-http://wouu.net:9977/rtp/239.93.0.162:2192?Cf=cfss.cc?
-http://xeace.cn:8888/udp/239.93.0.162:2192
-http://117.114.153.26:8180/TV00000000000000000069@HHZT
-http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
-http://extraott.com:80/live/7921751389/6097373662/62830.m3u8
-http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰资讯
-http://wouu.net:9977/rtp/239.93.0.118:2191?Cf=cfss.cc?
-http://xeace.cn:8888/udp/239.93.0.118:2191
-http://117.114.153.26:8180/TV00000000000000000068@HHZT
-http://171.110.42.110:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="卫视频道",凤凰香港
-http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视频道",北京卫视
 http://sc.rrs.169ol.com/PLTV/88888888/224/3221227397/index.m3u8
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
@@ -248,18 +233,246 @@ http://118.122.2.29:9999/hls/51/index.m3u8
 #EXTINF:-1 tvg-name="甘孜综合" tvg-logo="https://foruda.gitee.com/images/1718174799427817303/3bce52d4_13827851.png" group-title="四川本地",甘孜综合
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227549/index.m3u8
 http://m3u8.channel.ganzitv.com/nmip-media/channellive/channel1/playlist.m3u8
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="少儿频道",CCTV-14
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227379/index.m3u8
+#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png" group-title="少儿频道",动漫秀场
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227977/index.m3u8
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="少儿频道",金鹰卡通
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227149/index.m3u8
+#EXTINF:-1,tvg-id="中录动漫4K" tvg-name="中录动漫4K" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/中录动漫4K.png" group-title="少儿频道",中录动漫4K
+http://xeace.cn:8888/udp/239.93.1.188:5140
+#EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png" group-title="少儿频道",浙江少儿
+https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 tvg-name="黑龙江少儿" tvg-logo="https://foruda.gitee.com/images/1718169040528910304/3f799e9a_13827851.png" group-title="少儿频道",黑龙江少儿
+http://[2409:8087:1a01:df::4035]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/1.m3u8
+#EXTINF:-1 tvg-name="内蒙古少儿" tvg-logo="https://foruda.gitee.com/images/1718169192486200153/3ad4cd56_13827851.png" group-title="少儿频道",内蒙古少儿
+https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800
+#EXTINF:-1 tvg-name="成都少儿" tvg-logo="https://foruda.gitee.com/images/1718169329441815257/c122c5e8_13827851.png" group-title="少儿频道",成都少儿
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227953/index.m3u8
+#EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://live.fanmingming.com/tv/黑莓动画.png" group-title="少儿频道",黑莓动画
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="少儿频道",卡酷少儿
+http://sweetown.fun:4000/rtp/239.3.1.189:8000
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.189:8000$北京联通
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227189/index.m3u8
+#EXTINF:-1 tvg-logo="https://foruda.gitee.com/images/1723636812232348468/355e85af_13827851.png" group-title="少儿频道",ELTV生活英语台
+http://37.27.111.214:8080/live/56/hls.m3u8
+#EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://live.fanmingming.com/tv/优漫卡通.png" group-title="少儿频道",优漫卡通
+http://edc.dsmv.top:7777/udp/239.49.8.119:8000?
+#EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.com/tv/哈哈炫动.png" group-title="少儿频道",哈哈炫动
+http://www.17888.fun:10000/udp/239.45.1.55:5140?
+#EXTINF:0 group-title="少儿频道" tvg-id="423" tvg-logo="http://epg.it999.ru/img/423.png" ="7",Nickelodeon
+http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/223/index.m3u8
+#EXTINF:0 group-title="少儿频道" tvg-id="7596" tvg-logo="http://epg.it999.ru/img/7596.png",ТипТоп
+http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/14007/index.m3u8
+#EXTINF:0 group-title="少儿频道" tvg-id="5459" tvg-logo="http://epg.it999.ru/img/5459.png",Bunny
+http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/14239/index.m3u8
+#EXTINF:0 group-title="少儿频道" tvg-id="4756" tvg-logo="http://epg.it999.ru/img/4756.png" ="7",BCU Kids
+http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/11035/index.m3u8
+#EXTINF:0 group-title="少儿频道" tvg-id="6185" tvg-logo="http://epg.it999.ru/img/6185.png",BCU Kids 4K
+http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/17023/index.m3u8
+#EXTINF:0 group-title="少儿频道" tvg-id="6232" tvg-logo="http://epg.it999.ru/img/6232.png",Liberty Мульт 4K
+http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/18051/index.m3u8
+#EXTINF:0 group-title="少儿频道" tvg-id="6251" tvg-logo="http://epg.it999.ru/img/6251.png",Magic Disney
+http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/18064/index.m3u8
+#EXTINF:-1 group-title="少儿频道", Мульт HD
+http://stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="少儿频道", СТС Kids HD
+http://78.62.135.122:8082/STSKidsHD/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="体育频道",CCTV5
+http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000005
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227491/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="体育频道",CCTV5+
+http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000507
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227493/index.m3u8
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="体育频道",CCTV-16_奥林匹克
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16.png" group-title="体育频道",CCTV-16-4K
+http://iptv.skygogo.cn:18889/rtp/239.49.0.109:8000
+http://yc.jollys.top:8012/udp/239.69.1.249:11136
+#EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="体育频道",魅力足球
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227963/index.m3u8
+#EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="体育频道",快乐垂钓
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227965/index.m3u8
+#EXTINF:0 group-title="体育频道" tvg-id="4587" tvg-logo="http://epg.it999.ru/img/4587.png",NBA TV 
+http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/7226/index.m3u8
+#EXTINF:0 group-title="体育频道" tvg-id="7255" tvg-logo="http://epg.it999.ru/img/7255.png",Eleven 4K
+http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/20068/index.m3u8
+#EXTINF:0 group-title="体育频道" tvg-id="2878" tvg-logo="http://epg.it999.ru/img/2878.png",Sky Sport 4K
+http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/19044/index.m3u8
+#EXTINF:0 group-title="体育频道" tvg-id="2935" tvg-logo="http://epg.it999.ru/img/2935.png" ="3",ČT sport
+http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/2551/index.m3u8
+#EXTINF:0 group-title="体育频道" tvg-id="2889" tvg-logo="http://epg.it999.ru/img/2889.png" ="3",TNT 1
+http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/6566/index.m3u8
+#EXTINF:0 group-title="体育频道" tvg-id="6582" tvg-logo="http://epg.it999.ru/img/6582.png",ESPN 
+http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/19156/index.m3u8
+#EXTINF:0 group-title="体育频道" tvg-id="6562" tvg-logo="http://epg.it999.ru/img/6562.png",SKY SPORT NBA
+http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/19134/index.m3u8
+#EXTINF:0 group-title="体育频道" tvg-id="3880" tvg-logo="http://epg.it999.ru/img/3880.png",beIN Sports Max 1 
+http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/19062/index.m3u8
+#EXTINF:0 group-title="体育频道" tvg-id="6525" tvg-logo="http://epg.it999.ru/img/6525.png",TRT SPOR 
+http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/19067/index.m3u8
+#EXTINF:0 group-title="体育频道" tvg-id="6522" tvg-logo="http://epg.it999.ru/img/6522.png",A SPOR 
+http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/19069/index.m3u8
+#EXTINF:0 group-title="体育频道" tvg-id="6523" tvg-logo="http://epg.it999.ru/img/6523.png",S SPORT + PLUS 1
+http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/19070/index.m3u8
+#EXTINF:0 group-title="体育频道" tvg-id="6526" tvg-logo="http://epg.it999.ru/img/6526.png",SPOR SMART 2
+http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/19073/index.m3u8
+#EXTINF:0 group-title="体育频道" tvg-id="6527" tvg-logo="http://epg.it999.ru/img/6527.png",TiViBUSPOR 1
+http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/19074/index.m3u8
+#EXTINF:0 group-title="体育频道" tvg-id="6536" tvg-logo="http://epg.it999.ru/img/6536.png",SportItalia Plus
+http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/19108/index.m3u8
+#EXTINF:0 group-title="体育频道" tvg-id="6571" tvg-logo="http://epg.it999.ru/img/6571.png",FOX SPORTS SOUTHWEST PLUS
+http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/19143/index.m3u8
+#EXTINF:0 group-title="体育频道" tvg-id="6586" tvg-logo="http://epg.it999.ru/img/6586.png",Viasat Sport Ultra 4K
+http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/19163/index.m3u8
+#EXTINF:0 group-title="体育频道" tvg-id="6534" tvg-logo="http://epg.it999.ru/img/6534.png",Rai Sport
+http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/19106/index.m3u8
+#EXTINF:0 group-title="体育频道" tvg-id="6585" tvg-logo="http://epg.it999.ru/img/6585.png",SPORT TV 1
+http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/19161/index.m3u8
+#EXTINF:0 group-title="体育频道" tvg-id="6587" tvg-logo="http://epg.it999.ru/img/6587.png",Barça TV
+http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/19165/index.m3u8
+#EXTINF:0 group-title="体育频道" tvg-id="7235" tvg-logo="http://epg.it999.ru/img/7235.png",Q Sport 
+http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/20061/index.m3u8
+#EXTINF:0 group-title="体育频道" tvg-id="7540" tvg-logo="http://epg.it999.ru/img/7540.png" ="3",Prokop Sport Online 2
+http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/20103/index.m3u8
+#EXTINF:0 group-title="体育频道" tvg-id="7667" tvg-logo="http://epg.it999.ru/img/7667.png",Большой Эфир
+http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/14012/index.m3u8
+#EXTINF:0 group-title="体育频道" tvg-id="7793" tvg-logo="http://epg.it999.ru/img/7793.png",Silk 3
+http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/20146/index.m3u8
+#EXTINF:0 group-title="体育频道" tvg-id="7890" tvg-logo="http://epg.it999.ru/img/7890.png",Box Sport Cast 1 Live
+http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/20166/index.m3u8
+#EXTINF:0 group-title="体育频道" tvg-id="2052" tvg-logo="http://epg.it999.ru/img/2052.png" ="7",Eurosport 1
+http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/228/index.m3u8
+#EXTINF:0 group-title="体育频道" tvg-id="4313" tvg-logo="http://epg.it999.ru/img/4313.png" ="3",Eurosport 2
+http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/5076/index.m3u8
+#EXTINF:-1 group-title="体育频道" tvgid="2326" tvg-logo="http://epg.it999.ru/img2/2326.png",MMA TV
+http://188.113.190.15/305/tracks-v1a1/index.m3u8
+#EXTINF:0 group-title="体育频道" tvg-id="6039" tvg-logo="http://epg.it999.ru/img/6039.png",Red Bull TV
+http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/16039/index.m3u8
+#EXTINF:0 group-title="体育频道" tvg-id="2480" tvg-logo="http://epg.it999.ru/img/2480.png",Удар HD
+http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/19246/index.m3u8
+#EXTINF:0 group-title="体育频道" tvg-id="2055" tvg-logo="http://epg.it999.ru/img/2055.png" ="7",Viju+ Sport
+http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/2007/index.m3u8
+#EXTINF:0 group-title="体育频道" tvg-id="6130" tvg-logo="http://epg.it999.ru/img/6130.png" ="3",Insport
+http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/9094/index.m3u8
+#EXTINF:0 group-title="体育频道" tvg-id="2243" tvg-logo="http://epg.it999.ru/img/2243.png" ="3",XSPORT
+http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/996/index.m3u8
+#EXTINF:0 group-title="体育频道" tvg-id="2048" tvg-logo="http://epg.it999.ru/img/2048.png" ="7",KHL
+http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/215/index.m3u8
+#EXTINF:0 group-title="体育频道" tvg-id="2530" tvg-logo="http://epg.it999.ru/img/2530.png" ="3",Старт
+http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/6384/index.m3u8
+#EXTINF:0 group-title="体育频道" tvg-id="7509" tvg-logo="http://epg.it999.ru/img/7509.png",QazSport
+http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/14032/index.m3u8
+#EXTINF:0 group-title="体育频道" tvg-id="2892" tvg-logo="http://epg.it999.ru/img/2892.png" ="3",Star Sports 1
+http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/2508/index.m3u8
+#EXTINF:0 group-title="体育频道" tvg-id="4801" tvg-logo="http://epg.it999.ru/img/4801.png",AT&T SPORTSNET
+http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/11107/index.m3u8
+#EXTINF:0 group-title="体育频道" tvg-id="6485" tvg-logo="http://epg.it999.ru/img/6485.png",Sport Digital
+http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/19026/index.m3u8
+#EXTINF:0 group-title="体育频道" tvg-id="2682" tvg-logo="http://epg.it999.ru/img/2682.png",Sport 5 4K
+http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/12277/index.m3u8
+#EXTINF:-1 group-title="体育频道" tvg-logo="https://epgx.site/p/belarus5-inet.png" tvg-id="belarus5-inet",Беларусь 5🇧🇾
+http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/2177/index.m3u8
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="电影频道",CCTV-6
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="电影频道",CHC动作电影
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227984/index.m3u8
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="电影频道",CHC家庭影院
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227986/index.m3u8
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="电影频道",CHC影迷电影
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227981/index.m3u8
+#EXTINF:-1 tvg-name="欢笑剧场4K" tvg-logo="https://iptv-pro.github.io/logo/%E6%AC%A2%E7%AC%91%E5%89%A7%E5%9C%BA4K.png" group-title="电影频道",欢笑剧场4K
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227970/index.m3u8
+#EXTINF:-1 tvg-name="精彩影视" tvg-logo="https://iptv-pro.github.io/logo/%E7%B2%BE%E5%BD%A9%E5%BD%B1%E8%A7%86.png" group-title="电影频道",精彩影视
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227980/index.m3u8
+#EXTINF:-1 tvg-logo="https://foruda.gitee.com/images/1723636017739934555/aebda13d_13827851.png" group-title="电影频道",黑龙江影视
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptv-pro.github.io/logo/bjys.png" group-title="电影频道",BRTV影视
+http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.158:8000$北京联通
+http://sweetown.fun:4000/rtp/239.3.1.158:8000
+#EXTINF:-1 tvg-logo="https://foruda.gitee.com/images/1723636103325684139/a6e965b0_13827851.png" group-title="电影频道",广西影视
+http://www.dsmcloud.top:8888/udp/239.81.0.250:4056
+#EXTINF:-1 tvg-logo="https://iptv-pro.github.io/logo/cqtv6.png" group-title="电影频道",重庆影视
+http://113.251.230.89:7788/rtp/235.254.198.180:7980
+#EXTINF:-1 tvg-id="福建电视剧" tvg-name="福建电视剧" tvg-logo="https://live.fanmingming.com/tv/福建电视剧.png" group-title="电影频道",福建电视剧
+http://www.91dos.cn:4022/rtp/239.61.2.5:8024
+#EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png" group-title="电影频道",都市剧场
+http://www.syl88.online:8123/PLTV/88888888/224/3221225851/10000100000000060000000001138696_0.smil/index.m3u8?fmt=ts2hls&zoneoffset=480&servicetype=2&icpid=shlt&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7E4Ts0Mj5INfOBnRGJWnKLNg%7EO5gHFZXfEEx5kArqrWyLxJImY9Cz0FiG9s_8lX6EBsJruzJR2G4-aEY00UAxuQ6Prwdck4E0flhSWqASa7AbZgdeMh8HiWEFIiD7BDx7HtU%7EExtInfo24S_eFPZ-q3aI4rQpB83xQ%3A20231014195510%2C41022%2C%2C20231014195510%2CUmai%3ACHAN%2F1555881%40BESTV.SMG.SMG%2C41022%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2C10000100000000060000000001138696_0%2CEND
+http://58.41.27.144:18888/udp/239.45.3.136:5140
+#EXTINF:-1 tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://live.fanmingming.com/tv/东方影视.png" group-title="电影频道",东方影视
+http://www.syl88.online:8123/PLTV/88888888/224/3221225690/10000100000000060000000000012476_0.smil/index.m3u8?fmt=ts2hls&zoneoffset=480&servicetype=2&icpid=shlt&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7EE4ZfeyZ9u9gPGjm42WuPXg%7EO5gHFZXfEEx5kArqrWyLxJImY9Cz0FiG9s_8lX6EBsJruzJR2G4-aEY00UAxuQ6Prwdck4E0flhSWqASa7AbZgdeMh8HiWEFIiD7BDx7HtU%7EExtInfo24S_eFPZ-q3aI4rQpB83xQ%3A20231014195510%2C41022%2C%2C20231014195510%2CUmai%3ACHAN%2F990915%40BESTV.SMG.SMG%2C41022%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2C10000100000000060000000000012476_0%2CEND
+http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000013&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+http://58.41.27.144:18888/udp/239.45.3.237:5140
+http://origin.lean.org.cn:4000/udp/239.45.3.237:5140
+#EXTINF:-1 tvg-id="七彩戏剧" tvg-name="七彩戏剧" tvg-logo="https://live.fanmingming.com/tv/七彩戏剧.png" group-title="电影频道",七彩戏剧
+http://www.syl88.online:8123/PLTV/88888888/224/3221226032/10000100000000060000000002233114_0.smil/index.m3u8?fmt=ts2hls&zoneoffset=480&servicetype=2&icpid=shlt&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7ET_n8BAPQXMOOdlfCy2QCYw%7EO5gHFZXfEEx5kArqrWyLxJImY9Cz0FiG9s_8lX6EBsJruzJR2G4-aEY00UAxuQ6Prwdck4E0flhSWqASa7AbZgdeMh8HiWEFIiD7BDx7HtU%7EExtInfo24S_eFPZ-q3aI4rQpB83xQ%3A20231014195510%2C41022%2C%2C20231014195510%2CUmai%3ACHAN%2F6880440%40BESTV.SMG.SMG%2C41022%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2C10000100000000060000000002233114_0%2CEND
+#EXTINF:-1 tvg-id="山西影视" tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png" group-title="电影频道",山西影视
+http://110.178.52.91:8084/udp/239.1.1.4:8004
+#EXTINF:-1 tvg-id="江苏影视" tvg-name="江苏影视" tvg-logo="https://live.fanmingming.com/tv/江苏影视.png" group-title="电影频道",江苏影视
+http://iptv.skygogo.cn:18889/udp/239.49.8.118:8000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://foruda.gitee.com/images/1723636085706412549/50d4318d_13827851.png" group-title="电影频道",河南电视剧频道
+http://171.8.169.124:8800/rtp/239.16.20.167:11670
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/%E9%BE%99%E5%8D%8E%E7%94%B5%E5%BD%B1.png" group-title="电影频道",龍華电影
+http://37.27.111.214:8080/live/19/hls.m3u8
+https://haoyunlai.serv00.net/Smartv-1.php?id=xingwei_movie
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/%E7%BE%8E%E4%BA%9A%E7%94%B5%E5%BD%B1%E5%8F%B0.png" group-title="电影频道",美亞电影
+https://haoyunlai.serv00.net/Smartv-1.php?id=meiyamovie_twn
+https://stream.freetv.fun/mei-ya-dian-ying-1.ctv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/%E4%B8%9C%E6%A3%AE%E7%94%B5%E5%BD%B1.png" group-title="电影频道",東森电影
+https://haoyunlai.serv00.net/Smartv-1.php?id=ettvmovie
+#EXTINF:-1 tvg-logo="https://iptv-pro.github.io/logo/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E7%94%B5%E5%BD%B1%E5%8F%B0.png" group-title="电影频道",凤凰电影
+http://117.114.153.26:8180/TV00000000000000000072@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/HOLLYWOOD%20MOVIE.png" group-title="电影频道",好萊塢电影台
+https://haoyunlai.serv00.net/Smartv-1.php?id=hollywoodmovies_twn
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/%E5%A4%A9%E6%98%A0%E9%A2%91%E9%81%93.png" group-title="电影频道",天映频道
+https://haoyunlai.serv00.net/Smartv-1.php?id=Celestial2
+#EXTINF:-1 tvg-logo="https://iptv-pro.github.io/logo/%E5%85%AC%E8%A7%86%E6%88%8F%E5%89%A7.png" group-title="电影频道",公视戏剧
+http://37.27.111.214:8080/live/87/hls.m3u8
+#EXTINF:-1 tvg-logo="https://iptv-pro.github.io/logo/%E9%BE%99%E5%8D%8E%E6%88%8F%E5%89%A7.png" group-title="电影频道",龙华戏剧
+http://37.27.111.214:8080/live/41/hls.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/AMC电影台[720p].png" group-title="电影频道",AMC电影台
+http://61.221.215.25:8800/hls/43/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/%E9%BE%99%E7%BF%94%E6%97%B6%E4%BB%A3.png" group-title="电影频道",龍祥時代
+https://haoyunlai.serv00.net/Smartv-1.php?id=lungxiangtime_twn
+#EXTINF:-1 tvg-name="NOW 爆谷臺" tvg-id="10984" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2024/04/17/large/20240417171857306359_61.png" group-title="电影频道",NOW 爆谷
+http://123.150.5.131:9000/NOW爆谷/香蕉哥专用-易發TV.live.ts
+#EXTINF:-1 tvg-name="NOW 星影臺" tvg-id="10983" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2024/04/17/large/20240417171857306359_61.png" group-title="电影频道",NOW 星影
+http://123.150.5.131:9000/NOW星影/香蕉哥专用-易發TV.live.ts
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/重温经典.png" group-title="电影频道",重温经典
+http://117.114.153.26:8180/TV00000000000000000092@HHZT
+#EXTINF:-1 tvg-logo="https://iptv-pro.github.io/logo/%E9%9D%96%E5%A4%A9%E7%94%B5%E5%BD%B1%E5%8F%B0.png" group-title="电影频道",靖天电影台
+http://37.27.111.214:8080/live/18/hls.m3u8
+#EXTINF:-1 tvg-logo="https://iptv-pro.github.io/logo/%E9%9D%96%E5%A4%A9%E6%88%8F%E5%89%A7%E5%8F%B0.png" group-title="电影频道",靖洋戏剧台
+http://37.27.111.214:8080/live/17/hls.m3u8
+#EXTINF:0 group-title="电影频道" tvg-id="934" tvg-logo="http://epg.it999.ru/img/934.png" ="7",Hollywood HD
+http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/209/index.m3u8
+#EXTINF:0 group-title="电影频道" tvg-id="2509" tvg-logo="http://epg.it999.ru/img/2509.png" ="3",Наше любимое HD
+http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/2106/index.m3u8
+#EXTINF:0 group-title="电影频道" tvg-id="2768" tvg-logo="http://epg.it999.ru/img/2768.png" ="3",Арсенал HD
+http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/5044/index.m3u8
+#EXTINF:0 group-title="电影频道" tvg-id="6240" tvg-logo="http://epg.it999.ru/img/6240.png",START World HD
+http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/19248/index.m3u8
+#EXTINF:0 group-title="电影频道" tvg-id="2359" tvg-logo="http://epg.it999.ru/img/2359.png",FAN HD
+http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/16021/index.m3u8
+#EXTINF:0 group-title="电影频道" tvg-id="4766" tvg-logo="http://epg.it999.ru/img/4766.png" ="7",BCU Ultra 4K
+http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/11045/index.m3u8
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="港台频道",凤凰中文
+http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
 http://wouu.net:9977/rtp/239.93.0.162:2192?Cf=cfss.cc?
 http://xeace.cn:8888/udp/239.93.0.162:2192
 http://117.114.153.26:8180/TV00000000000000000069@HHZT
 http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 http://extraott.com:80/live/7921751389/6097373662/62830.m3u8
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="港台频道",凤凰资讯
+http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
 http://wouu.net:9977/rtp/239.93.0.118:2191?Cf=cfss.cc?
 http://xeace.cn:8888/udp/239.93.0.118:2191
 http://117.114.153.26:8180/TV00000000000000000068@HHZT
 http://171.110.42.110:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,tvg-id="鳳凰衛視香港台" tvg-name="鳳凰衛視香港台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港台频道",凤凰卫视香港台
+http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
 http://hikvision.city:880/fhxgt.m3u8
 https://haoyunlai.serv00.net/Smartv-1.php?id=hkphoenix_twn
 http://extraott.com:80/live/7921751389/6097373662/62822.m3u8
