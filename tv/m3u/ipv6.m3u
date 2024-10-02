@@ -42,9 +42,9 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
 http://sc.rrs.169ol.com/PLTV/88888888/224/3221227577/index.m3u8
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="央视高清",CETV1
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="央视频道",CETV1
 http://sc.rrs.169ol.com/PLTV/88888888/224/3221227339/index.m3u8
-#EXTINF:-1 tvg-name="中国交通" tvg-logo="https://live.fanmingming.com/tv/中国交通.png" group-title="央视高清",中国交通
+#EXTINF:-1 tvg-name="中国交通" tvg-logo="https://live.fanmingming.com/tv/中国交通.png" group-title="央视频道",中国交通
 http://sc.rrs.169ol.com/PLTV/88888888/224/3221227499/index.m3u8
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="央视频道",CHC影迷电影
 http://sc.rrs.169ol.com/PLTV/88888888/224/3221227981/index.m3u8
@@ -55,6 +55,10 @@ http://[2001:250:5800:1005::155]:80/liverespath/e0096742f0c5be4c5225cf3c7ab10771
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="央视频道",CHC家庭影院
 http://sc.rrs.169ol.com/PLTV/88888888/224/3221227986/index.m3u8
 http://[2001:250:5800:1005::155]:80/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/index.m3u8
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视频道",CGTN英语
+https://0472.org/hls/cgtn.m3u8
+#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.com/tv/CGTN纪录.png" group-title="央视频道",CGTN记录
+https://0472.org/hls/cgtnd.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰中文
 http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰资讯
@@ -139,12 +143,87 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000266006/1.m3u8
 http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="卫视频道",大湾区卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/index.m3u8
-#EXTINF:-1 tvg-name="中国教育1台" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="卫视频道",CETV-1
-http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
-#EXTINF:-1 tvg-name="中国教育2台" tvg-logo="https://live.fanmingming.com/tv/CETV2.png" group-title="卫视频道",CETV-2
-http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
-#EXTINF:-1 tvg-name="中国教育4台" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="卫视频道",CETV-4
-http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="四川本地",四川卫视
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227417/index.m3u8
+#EXTINF:-1 tvg-name="四川文化旅游" tvg-logo="https://live.fanmingming.com/tv/四川文化旅游.png" group-title="四川本地",四川文化旅游
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227413/index.m3u8
+http://118.122.2.29:9999/hls/52/index.m3u8
+#EXTINF:-1 tvg-name="四川经济" tvg-logo="https://live.fanmingming.com/tv/四川经济.png" group-title="四川本地",四川经济
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227415/index.m3u8
+#EXTINF:-1 tvg-name="四川新闻" tvg-logo="https://live.fanmingming.com/tv/四川新闻.png" group-title="四川本地",四川新闻
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227411/index.m3u8
+#EXTINF:-1 tvg-name="四川影视文艺" tvg-logo="https://live.fanmingming.com/tv/四川影视文艺.png" group-title="四川本地",四川影视文艺
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227409/index.m3u8
+http://118.122.2.29:9999/hls/53/index.m3u8
+#EXTINF:-1 tvg-name="四川妇女儿童" tvg-logo="https://foruda.gitee.com/images/1718168318366380595/8b8354ec_13827851.png" group-title="四川本地",四川妇女儿童
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227405/index.m3u8
+#EXTINF:-1 tvg-name="四川科教" tvg-logo="https://live.fanmingming.com/tv/四川科教.png" group-title="四川本地",四川科教
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227936/index.m3u8
+#EXTINF:-1 tvg-name="四川乡村" tvg-logo="https://live.fanmingming.com/tv/四川乡村.png" group-title="四川本地",四川乡村
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227403/index.m3u8
+#EXTINF:-1 tvg-id="峨眉电影" tvg-name="峨眉电影" tvg-logo="https://iptv-pro.github.io/logo/%E5%9B%9B%E5%B7%9D%E5%B3%A8%E7%9C%89%E7%94%B5%E5%BD%B1%E9%A2%91%E9%81%93.png" group-title="四川本地",峨眉电影
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227942/index.m3u8
+http://118.122.2.29:9999/hls/49/index.m3u8
+#EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://live.fanmingming.com/tv/康巴卫视.png" group-title="四川本地",康巴卫视
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227629/index.m3u8
+#EXTINF:-1 tvg-name="成都综合" tvg-logo="https://live.fanmingming.com/tv/cdtv1.png" group-title="四川本地",成都综合
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227495/index.m3u8
+#EXTINF:-1 tvg-name="成都经济" tvg-logo="https://live.fanmingming.com/tv/cdtv2.png" group-title="四川本地",成都经济
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227949/index.m3u8
+#EXTINF:-1 tvg-name="成都生活" tvg-logo="https://live.fanmingming.com/tv/cdtv3.png" group-title="四川本地",成都生活
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227950/index.m3u8
+#EXTINF:-1 tvg-name="成都影视" tvg-logo="https://live.fanmingming.com/tv/cdtv4.png" group-title="四川本地",成都影视
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227951/index.m3u8
+#EXTINF:-1 tvg-name="成都公共" tvg-logo="https://live.fanmingming.com/tv/cdtv5.png" group-title="四川本地",成都公共
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227587/index.m3u8
+#EXTINF:-1 tvg-name="成都少儿" tvg-logo="https://live.fanmingming.com/tv/cdtv6.png" group-title="四川本地",成都少儿
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227953/index.m3u8
+#EXTINF:-1 tvg-name="德阳文旅科教" tvg-logo="https://foruda.gitee.com/images/1718169541756407942/5d06f6c0_13827851.png" group-title="四川本地",德阳文旅科教
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227555/index.m3u8
+#EXTINF:-1 tvg-name="眉山综合" tvg-logo="https://foruda.gitee.com/images/1718168030087017165/ba8b1ab3_13827851.png" group-title="四川本地",眉山综合
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227539/index.m3u8
+#EXTINF:-1 tvg-name="资阳新闻综合" tvg-logo="https://foruda.gitee.com/images/1718120269837107457/f6c60a8c_13827851.png" group-title="四川本地",资阳新闻综合
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227547/index.m3u8
+#EXTINF:-1 tvg-name="内江新闻综合" tvg-logo="https://foruda.gitee.com/images/1718168472196988253/a2c3e642_13827851.png" group-title="四川本地",内江新闻综合
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227932/index.m3u8
+#EXTINF:-1 tvg-name="自贡综合" tvg-logo="https://foruda.gitee.com/images/1718172620606554765/dc723051_13827851.png" group-title="四川本地",自贡综合
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227930/index.m3u8
+#EXTINF:-1 tvg-name="乐山新闻综合" tvg-logo="https://foruda.gitee.com/images/1718120228665698326/e2a8ba25_13827851.png" group-title="四川本地",乐山新闻综合
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227537/index.m3u8
+#EXTINF:-1 tvg-name="遂宁综合" tvg-logo="https://foruda.gitee.com/images/1718170457930313963/fe319368_13827851.png" group-title="四川本地",遂宁综合
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227533/index.m3u8
+#EXTINF:-1 tvg-name="广安新闻综合" tvg-logo="https://foruda.gitee.com/images/1718172479556830894/4aded49c_13827851.png" group-title="四川本地",广安新闻综合
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227543/index.m3u8
+#EXTINF:-1 tvg-name="南充综合" tvg-logo="https://foruda.gitee.com/images/1718168707918625268/e5fa72b6_13827851.png" group-title="四川本地",南充综合
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227805/index.m3u8
+#EXTINF:-1 tvg-name="泸州新闻综合" tvg-logo="https://foruda.gitee.com/images/1718120171216028526/670eb0ab_13827851.png" group-title="四川本地",泸州新闻综合
+https://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel103074/playlist.m3u8
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227529/index.m3u8
+https://file.luzhoubs.com/nmip-media/channellive/channel106011/playlist.m3u8
+#EXTINF:-1 tvg-name="宜宾新闻综合" tvg-logo="https://foruda.gitee.com/images/1718172929746596359/16ae7fd4_13827851.png" group-title="四川本地",宜宾新闻综合
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227541/index.m3u8
+#EXTINF:-1 tvg-name="雅安新闻综合" tvg-logo="https://foruda.gitee.com/images/1718119421227442481/3e5c2962_13827851.png" group-title="四川本地",雅安新闻综合
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227559/index.m3u8
+https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
+#EXTINF:-1 tvg-name="绵阳新闻综合" tvg-logo="https://foruda.gitee.com/images/1718168166299131923/53187f65_13827851.png" group-title="四川本地",绵阳新闻综合
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227521/index.m3u8
+#EXTINF:-1 tvg-name="达州新闻综合" tvg-logo="https://iptv-pro.github.io/logo/dzzh.png" group-title="四川本地",达州新闻综合
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227581/index.m3u8
+#EXTINF:-1 tvg-name="广元综合" tvg-logo="https://foruda.gitee.com/images/1718119101763785049/68fe3d99_13827851.png" group-title="四川本地",广元综合
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227531/index.m3u8
+#EXTINF:-1 tvg-name="巴中综合" tvg-logo="https://foruda.gitee.com/images/1718172749283472719/58e78f59_13827851.png" group-title="四川本地",巴中综合
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227557/index.m3u8
+#EXTINF:-1 tvg-name="攀枝花新闻综合" tvg-logo="https://iptv-pro.github.io/logo/pzhtv.png" group-title="四川本地",攀枝花新闻综合
+https://live.pzhkai.com/xwzhtl/sd/live.m3u8?_upt=d5b16f3b1716416226
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227527/index.m3u8
+#EXTINF:-1 tvg-name="阿坝综合" tvg-logo="https://foruda.gitee.com/images/1718118288657890954/089ae5a5_13827851.png" group-title="四川本地",阿坝综合
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227561/index.m3u8
+#EXTINF:-1 tvg-name="凉山新闻综合" tvg-logo="https://foruda.gitee.com/images/1718118739531230005/7f50b371_13827851.png" group-title="四川本地",凉山新闻综合
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227551/index.m3u8
+http://118.122.2.29:9999/hls/51/index.m3u8
+#EXTINF:-1 tvg-name="甘孜综合" tvg-logo="https://foruda.gitee.com/images/1718174799427817303/3bce52d4_13827851.png" group-title="四川本地",甘孜综合
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227549/index.m3u8
+http://m3u8.channel.ganzitv.com/nmip-media/channellive/channel1/playlist.m3u8
 #EXTINF:-1 tvg-name="上海纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="数字频道",纪实人文
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
 #EXTINF:-1 tvg-name="纪实科教" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="数字频道",纪实科教
@@ -301,15 +380,5 @@ https://livestream-bt.nmtv.cn/nmtv/2348general.m3u8?txSecret=7b16e82a11c42b867ae
 https://livestream-bt.nmtv.cn/nmtv/2351general.m3u8?txSecret=08be8d464e60db2c3aa1e8e7d742f71d&txTime=771E8800
 #EXTINF:-1 tvg-name="乌兰察布新闻综合" tvg-logo="https://live.fanmingming.com/tv/乌兰察布.png" group-title="内蒙频道",乌兰察布新闻
 https://livestream-bt.nmtv.cn/nmtv/2354general.m3u8?txSecret=8bca81250fd7df3b633efcbb6150b0c6&txTime=771E8800
-#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视频道",CGTN英语
-https://0472.org/hls/cgtn.m3u8
-#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.com/tv/CGTN纪录.png" group-title="央视频道",CGTN记录
-https://0472.org/hls/cgtnd.m3u8
-#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.com/tv/CGTN俄语.png" group-title="央视频道",CGTN俄语
-https://0472.org/hls/cgtne.m3u8
-#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://live.fanmingming.com/tv/CGTN法语.png" group-title="央视频道",CGTN法语
-https://0472.org/hls/cgtnf.m3u8
-#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://live.fanmingming.com/tv/CGTN西语.png" group-title="央视频道",CGTN西语
-https://0472.org/hls/cgtnx.m3u8
-#EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="央视频道",CGTN阿语
-https://0472.org/hls/cgtna.m3u8
+
+
