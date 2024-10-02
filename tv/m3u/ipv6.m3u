@@ -251,8 +251,6 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://sc.rrs.169ol.com/PLTV/88888888/224/3221227977/index.m3u8
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="电影少儿",金鹰卡通
 http://sc.rrs.169ol.com/PLTV/88888888/224/3221227149/index.m3u8
-#EXTINF:-1,tvg-id="中录动漫4K" tvg-name="中录动漫4K" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/中录动漫4K.png" group-title="少儿频道",中录动漫4K
-http://xeace.cn:8888/udp/239.93.1.188:5140
 #EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png" group-title="电影少儿",浙江少儿
 https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 #EXTINF:-1 tvg-name="黑龙江少儿" tvg-logo="https://foruda.gitee.com/images/1718169040528910304/3f799e9a_13827851.png" group-title="电影少儿",黑龙江少儿
@@ -263,7 +261,7 @@ https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b
 http://sc.rrs.169ol.com/PLTV/88888888/224/3221227953/index.m3u8
 #EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://live.fanmingming.com/tv/黑莓动画.png" group-title="电影少儿",黑莓动画
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
-#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="少儿频道",卡酷少儿
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="电影少儿",卡酷少儿
 http://sc.rrs.169ol.com/PLTV/88888888/224/3221227189/index.m3u8
 #EXTINF:0 group-title="电影少儿" tvg-id="934" tvg-logo="http://epg.it999.ru/img/934.png" ="7",Hollywood HD
 http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/209/index.m3u8
