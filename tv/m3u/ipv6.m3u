@@ -132,7 +132,7 @@ http://221.10.168.132/PLTV/88888888/224/3221227943/1.m3u8
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png" group-title="卫视高清",西藏卫视
 http://sc.rrs.169ol.com/PLTV/88888888/224/3221227131/index.m3u8
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png" group-title="卫视高清",青海卫视
-http://sc.rrs.169ol.com/PLTV/88888888/224/3221227123/index.m3u8
+http://221.10.168.132/PLTV/88888888/224/3221227123/1.m3u8
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视高清",山西卫视
 http://sc.rrs.169ol.com/PLTV/88888888/224/3221227183/index.m3u8
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="卫视高清",新疆卫视
@@ -142,7 +142,7 @@ http://221.10.168.132/PLTV/88888888/224/3221227119/1.m3u8
 #EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://live.fanmingming.com/tv/延边卫视.png" group-title="卫视高清",延边卫视
 http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 #EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.com/tv/厦门卫视.png" group-title="卫视高清",厦门卫视
-http://sc.rrs.169ol.com/PLTV/88888888/224/3221227938/index.m3u8
+http://221.10.168.132/PLTV/88888888/224/3221227938/1.m3u8
 #EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://live.fanmingming.com/tv/安多卫视.png" group-title="卫视高清",安多卫视
 http://221.10.168.132/PLTV/88888888/224/3221227121/1.m3u8
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="卫视高清",陕西卫视
@@ -293,8 +293,6 @@ http://221.10.168.132/PLTV/88888888/224/3221227493/1.m3u8
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 #EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="体育频道",魅力足球
 http://sc.rrs.169ol.com/PLTV/88888888/224/3221227963/index.m3u8
-#EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="体育频道",快乐垂钓
-http://sc.rrs.169ol.com/PLTV/88888888/224/3221227965/index.m3u8
 #EXTINF:0 group-title="体育频道" tvg-id="4587" tvg-logo="http://epg.it999.ru/img/4587.png",NBA TV 
 http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/7226/index.m3u8
 #EXTINF:0 group-title="体育频道" tvg-id="7255" tvg-logo="http://epg.it999.ru/img/7255.png",Eleven 4K
