@@ -244,8 +244,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/2178/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/2179/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-id="2540" tvg-logo="http://epg.it999.ru/img/2540.png" ="3",Беларусь 3 白俄
 http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/2180/index.m3u8
-#EXTINF:0 group-title="欧洲频道" tvg-id="2549" tvg-logo="http://epg.it999.ru/img/2549.png",Cinema Космос白俄
-http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/2185/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-id="2545" tvg-logo="http://epg.it999.ru/img/2545.png" ="3",ОНТ白俄
 http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/2182/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-id="2104" tvg-logo="http://epg.it999.ru/img/2104.png",Новий канал乌克兰
@@ -254,8 +252,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/15128/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/1047/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-id="3309" tvg-logo="http://epg.it999.ru/img/3309.png",СТБ乌克兰
 http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/15122/index.m3u8
-#EXTINF:0 group-title="欧洲频道" tvg-id="2100" tvg-logo="http://epg.it999.ru/img/5610.png",K1乌克兰
-http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/15125/index.m3u8
 #EXTINF:-1 tvg-id="TF1" tvg-name="FR: TF1" tvg-logo="https://docdog.top/logo/countries/france/tf1-fr.png" group-title="欧洲频道",TF1法国
 http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=43895&extension=ts&play_token=0PaKpVLxdk&sn2=
 http://viplabor.top:8080/VIP01531707615543004/d658d535a6b6/419
@@ -300,12 +296,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/19439/index.m3u8
 https://v.trm.md/static/streaming-playlists/hls/937e4e0e-7174-4fb2-a299-480e68b49ecb/master.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-id="7165" tvg-logo="http://epg.it999.ru/img/7165.png",Cinema 1摩尔多瓦
 http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/19445/index.m3u8
-#EXTINF:0 group-title="欧洲频道" tvg-id="3740" tvg-logo="http://epg.it999.ru/img/3740.png" ="3",TVR罗马利亚
-http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/6998/index.m3u8
-#EXTINF:0 group-title="欧洲频道" tvg-id="7835" tvg-logo="http://epg.it999.ru/img/7835.png" ="3",Acasă TV罗马利亚
-http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/6988/index.m3u8
-#EXTINF:0 group-title="4K超高清" tvg-id="3696" tvg-logo="http://epg.it999.ru/img/3696.png" ="3",Travel Mix 4K
-http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/6954/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-id="3280" tvg-logo="http://epg.it999.ru/img/3280.png" ="3",TV1 HD立陶宛
 http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/6409/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-id="3279" tvg-logo="http://epg.it999.ru/img/3279.png" ="3",LRT TV立陶宛
