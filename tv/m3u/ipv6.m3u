@@ -839,9 +839,6 @@ https://5a13fe32ef748.streamlock.net/mmplay/mrtv/playlist.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TV5_%28Philippines%29_logo.svg/1024px-TV5_%28Philippines%29_logo.svg.png" group-title="亚洲频道" , TV5菲律宾
 http://user.scalecdn.co:8080/832396169/832396169/546800
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
-#EXTINF:0 group-title="亚洲频道" tvg-logo="https://foruda.gitee.com/images/1723573882050237703/3d6de060_13827851.png", MOJI印尼
-http://xtv.ooo:8080/Ijaaz123/aijaz321/350997
-#http://210.210.155.37/x6bnqe/s/s41/index.m3u8
 #EXTINF:-1 group-title="亚洲频道" tvg-id="vtv1" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1越南
 http://p1.cvtv.xyz/vtv1?token=live
 http://p2.cvtv.xyz/vtv1?token=live
@@ -897,10 +894,17 @@ http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/2330/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/15193/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-id="5681" tvg-logo="http://epg.it999.ru/img/5681.png",Al Hadath阿联酋
 http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/15203/index.m3u8
-#EXTINF:0 group-title="亚洲频道" tvg-id="3475" tvg-logo="http://epg.it999.ru/img/3475.png",Zee Talkies印度
-http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/6660/index.m3u8
-#EXTINF:0 group-title="亚洲频道" tvg-id="3389" tvg-logo="http://epg.it999.ru/img/3389.png",Sony SAB印度
-http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/6571/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/7a72febb637901c474b0241f9839e173.png" group-title="亚洲频道",IR: IRIB 1伊朗
+http://xtv.ooo:8080/irfan74819/iqbal847291/351120
+#EXTINF:-1 tvg-name="King Tv" group-title="亚洲频道" tvg-logo="http://tnm3u.live/icon/tamil/local/kingtv.png",King Tv印度
+#EXTINF:-1 tvg-name="Sree News" group-title="亚洲频道" tvg-logo="http://tnm3u.live/icon/telugu/sreenews.png",Sree News印度
+https://tnm3u.in.net/channel/telugu.php?c=sreenews
+#EXTINF:-1 tvg-name="Raja Tv" group-title="亚洲频道" tvg-logo="http://tnm3u.live/icon/telugu/rajatv.png",Raja Tv印度
+https://tnm3u.in.net/channel/telugu.php?c=rajatv
+#EXTINF:-1 tvg-name="M Tv Channel" group-title="亚洲频道" tvg-logo="http://tnm3u.live/icon/telugu/mtv.png",M Tv Channel印度
+https://tnm3u.in.net/channel/telugu.php?c=mtvchannel
+#EXTINF:-1 tvg-name="" group-title="亚洲频道" tvg-logo="http://tnm3u.live/icon/kannada/local/basava.png",Basava Tv印度
+https://tnm3u.in.net/channel/kannada.php?c=basavatv
 #EXTINF:0 group-title="亚洲频道" tvg-id="3532" tvg-logo="http://epg.it999.ru/img/3532.png",ARY Digital巴基斯坦
 http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/6719/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-id="3534" tvg-logo="http://epg.it999.ru/img/3534.png",Express News巴基斯坦
