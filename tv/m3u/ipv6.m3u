@@ -228,6 +228,7 @@ http://118.122.2.29:9999/hls/51/index.m3u8
 http://221.10.168.132/PLTV/88888888/224/3221227966/1.m3u8
 http://m3u8.channel.ganzitv.com/nmip-media/channellive/channel1/playlist.m3u8
 #EXTINF:-1 tvg-name="Россия 1🇷🇺" tvg-logo="http://epg.it999.ru/img2/984.png" group-title="欧洲频道",Россия 1俄
+http://rhsbjv7k.tvclub.xyz/iptv/T7DRNUUUKCQLH6/15131/index.m3u8
 https://player.smotrim.ru/iframe/stream/live_id/2961
 http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/2409/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-id="162" tvg-logo="http://epg.it999.ru/img2/162.png",НТВ俄
@@ -236,8 +237,10 @@ http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/213/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/15116/index.m3u8
 http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=275557&extension=ts&play_token=kIui7SwLa7&sn2=
 http://player.smotrim.ru/iframe/stream/live_id/64556?43
-#EXTINF:-1 group-title="欧洲频道" tvg-logo="https://epgx.site/p/mir.png" tvg-id="mir",Мир俄
-http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/18037/index.m3u8
+#EXTINF:0 group-title="欧洲频道" tvg-id="353" tvg-logo="http://epg.it999.ru/img/1767.png" tvg-rec="7",ТНТ俄
+http://rhsbjv7k.tvclub.xyz/iptv/T7DRNUUUKCQLH6/237/index.m3u8
+#EXTINF:0 group-title="欧洲频道" tvg-id="79" tvg-logo="http://epg.it999.ru/img/79.png" tvg-rec="3",СТС HD俄
+http://rhsbjv7k.tvclub.xyz/iptv/T7DRNUUUKCQLH6/9000/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-id="2538" tvg-logo="http://epg.it999.ru/img/2538.png" ="3",Беларусь 1白俄
 http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/2178/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-id="2539" tvg-logo="http://epg.it999.ru/img/2539.png" ="3",Беларусь 2 白俄
