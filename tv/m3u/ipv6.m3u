@@ -602,8 +602,6 @@ http://sc.rrs.169ol.com/PLTV/88888888/224/3221227963/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/7226/index.m3u8
 #EXTINF:0 group-title="体育频道" tvg-id="7255" tvg-logo="http://epg.it999.ru/img/7255.png",Eleven 4K
 http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/20068/index.m3u8
-#EXTINF:0 group-title="体育频道" tvg-id="2878" tvg-logo="http://epg.it999.ru/img/2878.png",Sky Sport 4K
-http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/19044/index.m3u8
 #EXTINF:0 group-title="体育频道" tvg-id="2889" tvg-logo="http://epg.it999.ru/img/2889.png" ="3",TNT 1
 http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/6566/index.m3u8
 #EXTINF:0 group-title="体育频道" tvg-id="6582" tvg-logo="http://epg.it999.ru/img/6582.png",ESPN 
@@ -664,15 +662,9 @@ http://rhsbjv7k.tvclub.xyz/iptv/T7DRNUUUKCQLH6/19068/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/T7DRNUUUKCQLH6/19110/index.m3u8
 #EXTINF:0 group-title="体育频道" tvg-id="2530" tvg-logo="http://epg.it999.ru/img/2530.png" ="3",Старт
 http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/6384/index.m3u8
-#EXTINF:0 group-title="体育频道" tvg-id="2892" tvg-logo="http://epg.it999.ru/img/2892.png" ="3",Star Sports 1
-http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/2508/index.m3u8
-#EXTINF:0 group-title="体育频道" tvg-id="4801" tvg-logo="http://epg.it999.ru/img/4801.png",AT&T SPORTSNET
-http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/11107/index.m3u8
 #EXTINF:0 group-title="体育频道" tvg-id="6485" tvg-logo="http://epg.it999.ru/img/6485.png",Sport Digital
 http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/19026/index.m3u8
-#EXTINF:0 group-title="体育频道" tvg-id="2682" tvg-logo="http://epg.it999.ru/img/2682.png",Sport 5 4K
-http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/12277/index.m3u8
-#EXTINF:-1 group-title="体育频道" tvg-logo="https://epgx.site/p/belarus5-inet.png" tvg-id="belarus5-inet",Беларусь 5🇧🇾
+#EXTINF:-1 group-title="体育频道" tvg-logo="https://epgx.site/p/belarus5-inet.png" tvg-id="belarus5-inet",Беларусь5
 http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/2177/index.m3u8
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="港台频道",凤凰中文
@@ -825,25 +817,14 @@ http://37.27.111.214:8080/live/48/hls.m3u8
 https://mifntechnology.github.io/siaranMy/channels/Tv1/index.m3u8
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b2596000_slENG.m3u8?id=1
-#EXTINF:-1 tvg-name="TV2🇲🇾" tvg-logo="https://iptv-pro.github.io/logo/TV2.png" group-title="亚洲频道",TV2马来西亚
-https://mifntechnology.github.io/siaranMy/channels/Tv2/index.m3u8
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b2596000_slENG.m3u8?id=2
 #EXTINF:-1 group-title="亚洲频道" tvg-id="8TV" tvg-name="8TV" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/8tv.png",8TV
 https://mifntechnology.github.io/siaranMy/channels/8tv/index.m3u8
-#EXTINF:-1 tvg-name="CH7 HD🇹🇭" tvg-logo="https://iptv36.my.to/logo/ch7.png" group-title="亚洲频道",CH7 HD泰国
-http://appdootv2.dootvde.com:1935/live/50003_ch7.stream.smil/chunklist_w2088011607_b1128000_slThai.m3u8
 #EXTINF:-1 tvg-chno="5" tvg-id="TV5 HD.th" tvg-name="TV5 HD" group-title="亚洲频道" tvg-logo="https://iptv36.my.to/logo/tv5.png",TV5泰国
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 #EXTINF:-1 tvg-name="CH3 HD🇹🇭" tvg-logo="https://iptv36.my.to/logo/ch3.png" group-title="亚洲频道",CH3 HD泰国
 http://appdootv2.dootvde.com:1935/live/50001_ch3.stream.smil/chunklist_w591253253_b1128000_slThai.m3u8
-#EXTINF:-1 tvg-id="TVK2.kh" tvg-logo="https://i.imgur.com/BfeRFnn.jpg" group-title="亚洲频道",TVK2柬埔寨
-https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TVK.kh" tvg-logo="https://i.imgur.com/Cs7vqeP.png" group-title="亚洲频道",TVK柬埔寨
-https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Channel 1 HangMeas HDTV" tvg-logo="https://static.wikia.nocookie.net/fic5689/images/5/55/HMHDTV.webp" group-title="亚洲频道", HangMeas柬埔寨
 http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/chunklist_w977310138_b1800000_sleng.m3u8
-#EXTINF:-1 tvg-name="Channel 8 Bayon TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/Bayon_tv.png/revision/latest?cb=20191209085913" group-title="亚洲频道", Bayon TV柬埔寨
-https://live.kh.malimarcdn.com/live/bayonhd.stream/chunklist.m3u8
 #EXTINF:-1 tvg-name="Channel 17 KhmerTV" tvg-logo="https://khmertv.com/wp-content/uploads/2020/12/newlogo.png" group-title="亚洲频道", KhmerTV柬埔寨
 https://livefta.malimarcdn.com/ftaedge00/khmertv2020.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="MRTV.mm" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/MRTV_logo.png" group-title="亚洲频道",MRTV缅甸
@@ -854,8 +835,6 @@ https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
 #EXTINF:-1 group-title="亚洲频道" tvg-id="vtv1" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1越南
 http://p1.cvtv.xyz/vtv1?token=live
 http://p2.cvtv.xyz/vtv1?token=live
-#EXTINF:-1 tvg-id="vtv2hd" group-title="亚洲频道" tvg-logo="https://i.imgur.com/BVwi3K3.png", VTV2越南
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtv2/index.m3u8
 #EXTINF:-1 group-title="亚洲频道" tvg-id="vtv3" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3越南
 http://p1.cvtv.xyz/vtv3?token=live
 https://e2.endpoint.cdn.sctvonline.vn/hls/vtv3/index.m3u8
@@ -882,20 +861,14 @@ http://rhsbjv7k.tvclub.xyz/iptv/T7DRNUUUKCQLH6/15206/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/609/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-id="2061" tvg-logo="http://epg.it999.ru/img/2061.png" tvg-rec="3",Դար 21亚美利亚
 http://rhsbjv7k.tvclub.xyz/iptv/T7DRNUUUKCQLH6/602/index.m3u8
-#EXTINF:0 group-title="亚洲频道" tvg-id="2060" tvg-logo="http://epg.it999.ru/img/2060.png" ="3",Առաջին Ալիք亚美尼亚
-http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/601/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-id="2064" tvg-logo="http://epg.it999.ru/img/2064.png" ="3",Արմենիա Tv亚美尼亚
 http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/605/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-id="2066" tvg-logo="http://epg.it999.ru/img/2066.png" ="3",Երկիր մեդիա亚美尼亚
 http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/608/index.m3u8
-#EXTINF:0 group-title="亚洲频道" tvg-id="5927" tvg-logo="http://epg.it999.ru/img/5927.png" tvg-rec="0",Հինգերորդ ալիք Plus亚美利亚
-http://rhsbjv7k.tvclub.xyz/iptv/T7DRNUUUKCQLH6/15488/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-id="2563" tvg-logo="http://epg.it999.ru/img/2563.png" ="3",Imedi TV格鲁吉亚
 http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/7156/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-id="4291" tvg-logo="http://epg.it999.ru/img/4291.png" ="3",Rustavi2格鲁吉亚
 http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/7171/index.m3u8
-#EXTINF:0 group-title="亚洲频道" tvg-id="2565" tvg-logo="http://epg.it999.ru/img/2565.png" ="3",TV Pirveli格鲁吉亚
-http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/7174/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-id="4281" tvg-logo="http://epg.it999.ru/img/4281.png" ="3",Marao格鲁吉亚
 http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/7161/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-id="2158" tvg-logo="http://epg.it999.ru/img/2158.png" ="3",CBC阿塞拜疆
@@ -915,8 +888,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/2330/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/T7DRNUUUKCQLH6/12239/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-id="5671" tvg-logo="http://epg.it999.ru/img/5671.png",Rotana-Aflem阿联酋
 http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/15193/index.m3u8
-#EXTINF:0 group-title="亚洲频道" tvg-id="5681" tvg-logo="http://epg.it999.ru/img/5681.png",Al Hadath阿联酋
-http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/15203/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-id="5672" tvg-logo="http://epg.it999.ru/img/5672.png" tvg-rec="0",Otv阿联酋
 http://rhsbjv7k.tvclub.xyz/iptv/T7DRNUUUKCQLH6/15194/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-id="5674" tvg-logo="http://epg.it999.ru/img/5674.png" tvg-rec="0",Mbc Drama阿联酋
@@ -927,12 +898,8 @@ http://xtv.ooo:8080/irfan74819/iqbal847291/351120
 http://rhsbjv7k.tvclub.xyz/iptv/T7DRNUUUKCQLH6/6567/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-id="3506" tvg-logo="http://epg.it999.ru/img/3506.png" tvg-rec="0",SUN TV印度
 http://rhsbjv7k.tvclub.xyz/iptv/T7DRNUUUKCQLH6/6621/index.m3u8
-#EXTINF:-1 tvg-name="Sree News" group-title="亚洲频道" tvg-logo="http://tnm3u.live/icon/telugu/sreenews.png",Sree News印度
-https://tnm3u.in.net/channel/telugu.php?c=sreenews
 #EXTINF:-1 tvg-name="Raja Tv" group-title="亚洲频道" tvg-logo="http://tnm3u.live/icon/telugu/rajatv.png",Raja Tv印度
 https://tnm3u.in.net/channel/telugu.php?c=rajatv
-#EXTINF:-1 tvg-name="M Tv Channel" group-title="亚洲频道" tvg-logo="http://tnm3u.live/icon/telugu/mtv.png",M Tv Channel印度
-https://tnm3u.in.net/channel/telugu.php?c=mtvchannel
 #EXTINF:-1 tvg-name="" group-title="亚洲频道" tvg-logo="http://tnm3u.live/icon/kannada/local/basava.png",Basava Tv印度
 https://tnm3u.in.net/channel/kannada.php?c=basavatv
 #EXTINF:0 group-title="亚洲频道" tvg-id="3533" tvg-logo="http://epg.it999.ru/img/3533.png" tvg-rec="0",ARY News巴基斯坦
@@ -941,22 +908,12 @@ http://rhsbjv7k.tvclub.xyz/iptv/T7DRNUUUKCQLH6/6720/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/6719/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-id="3543" tvg-logo="http://epg.it999.ru/img/3543.png" tvg-rec="0",HUM TV巴基斯坦
 http://rhsbjv7k.tvclub.xyz/iptv/T7DRNUUUKCQLH6/6730/index.m3u8
-#EXTINF:0 group-title="亚洲频道" tvg-id="3544" tvg-logo="http://epg.it999.ru/img/3544.png" tvg-rec="0",HUM Sitaray巴基斯坦
-http://rhsbjv7k.tvclub.xyz/iptv/T7DRNUUUKCQLH6/6731/index.m3u8
-#EXTINF:0 group-title="亚洲频道" tvg-id="3534" tvg-logo="http://epg.it999.ru/img/3534.png",Express News巴基斯坦
-http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/6721/index.m3u8
-#EXTINF:-1 group-title="亚洲频道" tvg-logo="https://i.ibb.co/WfjvRsn/Picsart-23-06-07-11-07-21-738.png",MY TV孟加拉
-https://livess.ncare.live/live-orgin/mytv-up-off.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亚洲频道",Channel I孟加拉
-http://208.86.19.13:81/510.stream/index.m3u8
 #EXTINF:0 tvg-country="KZ" tvg-id="Qazaqstan.kz" tvg-logo="https://i.imgur.com/ytfyAJJ.png" group-title="亚洲频道",Qazaqstan哈萨克
 https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/qazaqstantv/qazaqstantv_720/chunks.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-id="2570" tvg-logo="http://epg.it999.ru/img/2570.png" ="3",КТК哈萨克
 http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/2211/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-id="7802" tvg-logo="http://epg.it999.ru/img/7802.png" tvg-rec="3",Saryarqa哈萨克
 http://rhsbjv7k.tvclub.xyz/iptv/T7DRNUUUKCQLH6/2222/index.m3u8
-#EXTINF:0 group-title="亚洲频道" tvg-id="2576" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/xabar.png" ="3",Хабар哈萨克
-http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/2223/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-id="2582" tvg-logo="http://epg.it999.ru/img/2582.png" ="3",Tojikistan塔吉克
 http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/2232/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-id="2583" tvg-logo="http://epg.it999.ru/img/2583.png" ="3",Safina塔吉克
@@ -989,8 +946,6 @@ https://10st.vcast.im/MYASIATV/TV5/playlist.m3u8
 https://cdn1.skygo.mn/live/disk1/TV8HD/HLS-FTA/TV8HD.m3u8
 #EXTINF:-1 tvg-name="MNB🇲🇳" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mnb-mn.png" group-title="亚洲频道",MNB蒙古
 https://cdn3.skygo.mn/live/disk1/MNB/HLS-FTA/MNB.m3u8
-#EXTINF:-1 tvg-name="欢笑剧场4K" tvg-logo="https://iptv-pro.github.io/logo/%E6%AC%A2%E7%AC%91%E5%89%A7%E5%9C%BA4K.png" group-title="4K超高清",欢笑剧场4K
-http://sc.rrs.169ol.com/PLTV/88888888/224/3221227970/index.m3u8
 #EXTINF:0 group-title="4K超高清" tvg-id="6707" tvg-logo="http://epg.it999.ru/img/6707.png",BOX Music 4K
 http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/19282/index.m3u8
 #EXTINF:0 group-title="4K超高清" tvg-id="6708" tvg-logo="http://epg.it999.ru/img/6708.png" tvg-rec="0",BOX Relax 4K
@@ -1007,8 +962,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/5004/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/17023/index.m3u8
 #EXTINF:0 group-title="4K超高清" tvg-id="2749" tvg-logo="http://epg.it999.ru/img/2749.png",Сериал UHD 4K
 http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/5005/index.m3u8
-#EXTINF:0 group-title="4K超高清" tvg-id="6340" tvg-logo="http://epg.it999.ru/img/6340.png",Liberty Индия 4K
-http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/18160/index.m3u8
 #EXTINF:0 group-title="4K超高清" tvg-id="6230" tvg-logo="http://epg.it999.ru/img/6230.png",LibertyUKR 4K
 http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/18045/index.m3u8
 #EXTINF:0 group-title="4K超高清" tvg-id="2801" tvg-logo="http://epg.it999.ru/img/2801.png" ="3",Love Nature 4K
@@ -1017,16 +970,14 @@ http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/5001/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/5000/index.m3u8
 #EXTINF:0 group-title="4K超高清" tvg-id="5979" tvg-logo="http://epg.it999.ru/img/5979.png",Глазами Туриста 4K
 http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/15191/index.m3u8
-#EXTINF:0 group-title="4K超高清" tvg-id="5980" tvg-logo="http://epg.it999.ru/img/5980.png",NASA TV 4K
-http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/15239/index.m3u8
 #EXTINF:0 group-title="4K超高清" tvg-id="2745" tvg-logo="http://epg.it999.ru/img/2745.png" ="3",Home 4K
 http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/4002/index.m3u8
 #EXTINF:0 group-title="4K超高清" tvg-id="5456" tvg-logo="http://epg.it999.ru/img/5456.png",SKY HIGH NATURE 4K
 http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/14247/index.m3u8
 #EXTINF:0 group-title="4K超高清" tvg-id="2803" tvg-logo="http://epg.it999.ru/img/2803.png" tvg-rec="3",Russian Extreme4K
 http://rhsbjv7k.tvclub.xyz/iptv/T7DRNUUUKCQLH6/5003/index.m3u8
-#EXTINF:0 group-title="4K超高清",Museum 4K
-http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/14016/index.m3u8
+#EXTINF:0 group-title="4K超高清" tvg-id="7617" tvg-logo="http://epg.it999.ru/img/7617.png" tvg-rec="0",TravelXP 4K
+http://rhsbjv7k.tvclub.xyz/iptv/T7DRNUUUKCQLH6/14026/index.m3u8
 #EXTINF:0 group-title="4K超高清" tvg-id="4766" tvg-logo="http://epg.it999.ru/img/4766.png" ="7",BCU Ultra 4K
 http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/11045/index.m3u8
 #EXTINF:0 group-title="4K超高清" tvg-id="5979" tvg-logo="http://epg.it999.ru/img/5979.png" tvg-rec="0",Глазами Туриста 4K
@@ -1037,11 +988,8 @@ http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/5002/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/17023/index.m3u8
 #EXTINF:0 group-title="4K超高清" tvg-id="6232" tvg-logo="http://epg.it999.ru/img/6232.png",Liberty Мульт 4K
 http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/18051/index.m3u8
-#EXTINF:-1 tvg-id="Eurosport.4K.ro" tvg-logo="https://i.imgur.com/APE7FAm.jpg" group-title="4K超高清",EuroSport4K 
-https://7pal.short.gy/eusport4k
-#EXTINF:-1,tvg-id="Fashion-4K" tvg-name="Fashion-4K" tvg-logo="https://epg.112114.xyz/logo/FASHION4K.png" group-title="4K超高清",Fashion-4K
-http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
-http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/230039
+#EXTINF:0 group-title="4K超高清" tvg-id="2748" tvg-logo="http://epg.it999.ru/img/2748.png" tvg-rec="3",Fashion TV 4K
+http://rhsbjv7k.tvclub.xyz/iptv/T7DRNUUUKCQLH6/4005/index.m3u8
 #EXTINF:0 group-title="美洲频道" tvg-id="2128" tvg-logo="http://epg.it999.ru/img/2128.png" tvg-rec="3",CNBC美
 http://rhsbjv7k.tvclub.xyz/iptv/T7DRNUUUKCQLH6/962/index.m3u8
 #EXTINF:0 group-title="美洲频道" tvg-id="3573" tvg-logo="http://epg.it999.ru/img/3573.png" tvg-rec="0",City TV Toronto加拿大
