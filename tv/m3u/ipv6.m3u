@@ -592,6 +592,26 @@ http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/18064/index.m3u8
 http://stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="电影少儿", СТС Kids HD
 http://78.62.135.122:8082/STSKidsHD/index.m3u8
+#EXTINF:0 group-title="电影少儿" tvg-id="2732" tvg-logo="http://epg.it999.ru/img/2732.png" tvg-rec="3",Премиальное俄
+http://rhsbjv7k.tvclub.xyz/iptv/T7DRNUUUKCQLH6/2410/index.m3u8
+#EXTINF:0 group-title="电影少儿" tvg-id="2832" tvg-logo="http://epg.it999.ru/img/2832.png" tvg-rec="3",Блокбастер俄
+http://rhsbjv7k.tvclub.xyz/iptv/T7DRNUUUKCQLH6/9087/index.m3u8
+#EXTINF:0 group-title="电影少儿" tvg-id="2833" tvg-logo="http://epg.it999.ru/img/2833.png" tvg-rec="3",Хит俄
+http://rhsbjv7k.tvclub.xyz/iptv/T7DRNUUUKCQLH6/2438/index.m3u8
+#EXTINF:0 group-title="电影少儿" tvg-id="1037" tvg-logo="http://epg.it999.ru/img/1037.png" tvg-rec="3",Кино ТВ俄
+http://rhsbjv7k.tvclub.xyz/iptv/T7DRNUUUKCQLH6/9051/index.m3u8
+#EXTINF:0 group-title="电影少儿" tvg-id="4762" tvg-logo="http://epg.it999.ru/img/4762.png" tvg-rec="7",BCU Russian
+http://rhsbjv7k.tvclub.xyz/iptv/T7DRNUUUKCQLH6/11041/index.m3u8
+#EXTINF:0 group-title="电影少儿" tvg-id="675" tvg-logo="http://epg.it999.ru/img/675.png" tvg-rec="3",Моя Планета
+http://rhsbjv7k.tvclub.xyz/iptv/T7DRNUUUKCQLH6/2090/index.m3u8
+#EXTINF:0 group-title="电影少儿" tvg-id="2498" tvg-logo="http://epg.it999.ru/img/2498.png" tvg-rec="3",В мире животных
+http://rhsbjv7k.tvclub.xyz/iptv/T7DRNUUUKCQLH6/9048/index.m3u8
+#EXTINF:0 group-title="电影少儿" tvg-id="1681" tvg-logo="http://epg.it999.ru/img/1681.png" tvg-rec="3",Охотник и Рыболов
+http://rhsbjv7k.tvclub.xyz/iptv/T7DRNUUUKCQLH6/9043/index.m3u8
+#EXTINF:0 group-title="电影少儿" tvg-id="7635" tvg-logo="http://epg.it999.ru/img/7635.png" tvg-rec="3",FoodTime
+http://rhsbjv7k.tvclub.xyz/iptv/T7DRNUUUKCQLH6/2418/index.m3u8
+#EXTINF:0 group-title="电影少儿" tvg-id="2746" tvg-logo="http://epg.it999.ru/img/2746.png" tvg-rec="3",Наша Сибирь
+http://rhsbjv7k.tvclub.xyz/iptv/T7DRNUUUKCQLH6/4003/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="体育频道",CCTV5
 http://221.10.168.132/PLTV/88888888/224/3221227491/1.m3u8
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="体育频道",CCTV5+
@@ -616,6 +636,8 @@ http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/19156/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/19134/index.m3u8
 #EXTINF:0 group-title="体育频道" tvg-id="3880" tvg-logo="http://epg.it999.ru/img/3880.png",beIN Sports Max 1 
 http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/19062/index.m3u8
+#EXTINF:0 group-title="体育频道" tvg-id="4313" tvg-logo="http://epg.it999.ru/img/4313.png" tvg-rec="3",Eurosport 2 HD
+http://rhsbjv7k.tvclub.xyz/iptv/T7DRNUUUKCQLH6/5076/index.m3u8
 #EXTINF:0 group-title="体育频道" tvg-id="6525" tvg-logo="http://epg.it999.ru/img/6525.png",TRT SPOR 
 http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/19067/index.m3u8
 #EXTINF:0 group-title="体育频道" tvg-id="6522" tvg-logo="http://epg.it999.ru/img/6522.png",A SPOR 
@@ -666,6 +688,30 @@ http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/9094/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/996/index.m3u8
 #EXTINF:0 group-title="体育频道" tvg-id="2048" tvg-logo="http://epg.it999.ru/img/2048.png" ="7",KHL
 http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/215/index.m3u8
+#EXTINF:0 group-title="体育频道" tvg-id="2541" tvg-logo="http://epg.it999.ru/img/2541.png" tvg-rec="3",Беларусь 5
+http://rhsbjv7k.tvclub.xyz/iptv/T7DRNUUUKCQLH6/2177/index.m3u8
+#EXTINF:0 group-title="体育频道" tvg-id="2243" tvg-logo="http://epg.it999.ru/img/2243.png" tvg-rec="3",XSPORT
+http://rhsbjv7k.tvclub.xyz/iptv/T7DRNUUUKCQLH6/996/index.m3u8
+#EXTINF:0 group-title="体育频道" tvg-id="2048" tvg-logo="http://epg.it999.ru/img/2048.png" tvg-rec="7",KHL
+http://rhsbjv7k.tvclub.xyz/iptv/T7DRNUUUKCQLH6/215/index.m3u8
+#EXTINF:0 group-title="体育频道" tvg-id="2362" tvg-logo="http://epg.it999.ru/img/2362.png" tvg-rec="3",FAST&FUN BOX
+http://rhsbjv7k.tvclub.xyz/iptv/T7DRNUUUKCQLH6/1018/index.m3u8
+#EXTINF:0 group-title="体育频道" tvg-id="5891" tvg-logo="http://epg.it999.ru/img/5891.png" tvg-rec="0",Q Sport Arena
+http://rhsbjv7k.tvclub.xyz/iptv/T7DRNUUUKCQLH6/15238/index.m3u8
+#EXTINF:0 group-title="体育频道" tvg-id="7509" tvg-logo="http://epg.it999.ru/img/7509.png" tvg-rec="0",QazSport
+http://rhsbjv7k.tvclub.xyz/iptv/T7DRNUUUKCQLH6/14032/index.m3u8
+#EXTINF:0 group-title="体育频道" tvg-id="4678" tvg-logo="http://epg.it999.ru/img/4678.png" tvg-rec="7",Спортивный
+http://rhsbjv7k.tvclub.xyz/iptv/T7DRNUUUKCQLH6/10057/index.m3u8
+#EXTINF:0 group-title="体育频道" tvg-id="113" tvg-logo="http://epg.it999.ru/img/113.png" tvg-rec="0",ЖИВИ!
+http://rhsbjv7k.tvclub.xyz/iptv/T7DRNUUUKCQLH6/19252/index.m3u8
+#EXTINF:0 group-title="体育频道" tvg-id="7508" tvg-logo="http://epg.it999.ru/img/7508.png" tvg-rec="0",NBA
+http://rhsbjv7k.tvclub.xyz/iptv/T7DRNUUUKCQLH6/14031/index.m3u8
+#EXTINF:0 group-title="体育频道" tvg-id="6484" tvg-logo="http://epg.it999.ru/img/6484.png" tvg-rec="0",Auto Motor Sport
+http://rhsbjv7k.tvclub.xyz/iptv/T7DRNUUUKCQLH6/19025/index.m3u8
+#EXTINF:0 group-title="体育频道" tvg-id="6521" tvg-logo="http://epg.it999.ru/img/6521.png" tvg-rec="0",TRT SPOR 2
+http://rhsbjv7k.tvclub.xyz/iptv/T7DRNUUUKCQLH6/19068/index.m3u8
+#EXTINF:0 group-title="体育频道" tvg-id="6538" tvg-logo="http://epg.it999.ru/img/6538.png" tvg-rec="0",SportItalia Motori
+http://rhsbjv7k.tvclub.xyz/iptv/T7DRNUUUKCQLH6/19110/index.m3u8
 #EXTINF:0 group-title="体育频道" tvg-id="2530" tvg-logo="http://epg.it999.ru/img/2530.png" ="3",Старт
 http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/6384/index.m3u8
 #EXTINF:0 group-title="体育频道" tvg-id="7509" tvg-logo="http://epg.it999.ru/img/7509.png",QazSport
@@ -999,6 +1045,10 @@ https://cdn3.skygo.mn/live/disk1/MNB/HLS-FTA/MNB.m3u8
 http://sc.rrs.169ol.com/PLTV/88888888/224/3221227970/index.m3u8
 #EXTINF:0 group-title="4K超高清" tvg-id="6707" tvg-logo="http://epg.it999.ru/img/6707.png",BOX Music 4K
 http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/19282/index.m3u8
+#EXTINF:0 group-title="4K超高清" tvg-id="6708" tvg-logo="http://epg.it999.ru/img/6708.png" tvg-rec="0",BOX Relax 4K
+http://rhsbjv7k.tvclub.xyz/iptv/T7DRNUUUKCQLH6/19283/index.m3u8
+#EXTINF:0 group-title="4K超高清" tvg-id="4805" tvg-logo="http://epg.it999.ru/img/4805.png" tvg-rec="0",VF Сериал 4K
+http://rhsbjv7k.tvclub.xyz/iptv/T7DRNUUUKCQLH6/11115/index.m3u8
 #EXTINF:0 group-title="4K超高清" tvg-id="2743" tvg-logo="http://epg.it999.ru/img/2743.png",Ultra HD Cinema 4K
 http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/4000/index.m3u8
 #EXTINF:0 group-title="4K超高清" tvg-id="2804" tvg-logo="http://epg.it999.ru/img/2804.png",4K超高清 UHD 4K
@@ -1021,8 +1071,12 @@ http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/15239/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/4002/index.m3u8
 #EXTINF:0 group-title="4K超高清" tvg-id="5456" tvg-logo="http://epg.it999.ru/img/5456.png",SKY HIGH NATURE 4K
 http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/14247/index.m3u8
+#EXTINF:0 group-title="4K超高清" tvg-id="2803" tvg-logo="http://epg.it999.ru/img/2803.png" tvg-rec="3",Russian Extreme4K
+http://rhsbjv7k.tvclub.xyz/iptv/T7DRNUUUKCQLH6/5003/index.m3u8
 #EXTINF:0 group-title="4K超高清",Museum 4K
 http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/14016/index.m3u8
+#EXTINF:0 group-title="4K超高清" tvg-id="5979" tvg-logo="http://epg.it999.ru/img/5979.png" tvg-rec="0",Глазами Туриста 4K
+http://rhsbjv7k.tvclub.xyz/iptv/T7DRNUUUKCQLH6/15191/index.m3u8
 #EXTINF:0 group-title="4K超高清" tvg-id="2802" tvg-logo="http://epg.it999.ru/img/2802.png" ="3",MyZen TV 4K
 http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/5002/index.m3u8
 #EXTINF:0 group-title="4K超高清" tvg-id="6185" tvg-logo="http://epg.it999.ru/img/6185.png",BCU Kids 4K
@@ -1040,6 +1094,10 @@ http://rhsbjv7k.tvclub.xyz/iptv/T7DRNUUUKCQLH6/962/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/T7DRNUUUKCQLH6/6429/index.m3u8
 #EXTINF:0 group-title="美洲频道" tvg-id="3580" tvg-logo="http://epg.it999.ru/img/3580.png" tvg-rec="0",TCTV2加拿大
 http://rhsbjv7k.tvclub.xyz/iptv/T7DRNUUUKCQLH6/6437/index.m3u8
+#EXTINF:0 group-title="美洲频道" tvg-id="325" tvg-logo="http://epg.it999.ru/img/325.png" tvg-rec="3",Discovery Channel美
+http://rhsbjv7k.tvclub.xyz/iptv/T7DRNUUUKCQLH6/9011/index.m3u8
+#EXTINF:0 group-title="美洲频道" tvg-id="223" tvg-logo="http://epg.it999.ru/img/223.png" tvg-rec="3",Nat Geo Wild美
+http://rhsbjv7k.tvclub.xyz/iptv/T7DRNUUUKCQLH6/2415/index.m3u8
 #EXTINF:0 tvg-id="AXN.it" group-title="美洲频道",AXN HD
 http://voz.one:80/saulof0nt30_5/jCvUTjHyjf5K/425
 #EXTINF:0 tvg-id="CineMAX.ro" group-title="美洲频道",CINEMAX FHD
