@@ -612,12 +612,14 @@ http://221.10.168.132/PLTV/88888888/224/3221227493/1.m3u8
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 #EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="体育频道",魅力足球
 http://sc.rrs.169ol.com/PLTV/88888888/224/3221227963/index.m3u8
-#EXTINF:0 group-title="体育频道" tvg-id="4587" tvg-logo="http://epg.it999.ru/img/4587.png",NBA TV 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/nbatv.png" group-title="体育频道",NBA TV
+http://fl5.moveonjoy.com/NBA_TV/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/7226/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/beinsports.png" group-title="体育频道",beIN Sports美
 http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/espn.png" group-title="体育频道",ESPN
 http://streamsy.online:2999/live/juanv/04bodwaga0/133.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/19156/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/espn2.png" group-title="体育频道",ESPN 2
 http://streamsy.online:2999/live/juanv/04bodwaga0/173.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/espnu.png" group-title="体育频道",ESPNU
@@ -630,8 +632,6 @@ http://streamsy.online:2999/live/juanv/04bodwaga0/264.m3u8
 http://streamsy.online:2999/live/juanv/04bodwaga0/138.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/mlbnetwork.png" group-title="体育频道",MLB Network 
 http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/nbatv.png" group-title="体育频道",NBA TV
-http://fl5.moveonjoy.com/NBA_TV/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/nbcsports.png" group-title="体育频道",NBC Sports
 http://streamsy.online:2999/live/juanv/04bodwaga0/591.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/nflnetwork.png" group-title="体育频道",NFL Network
@@ -648,8 +648,6 @@ http://streamsy.online:2999/live/juanv/04bodwaga0/398.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/20068/index.m3u8
 #EXTINF:0 group-title="体育频道" tvg-id="2889" tvg-logo="http://epg.it999.ru/img/2889.png" ="3",TNT 1
 http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/6566/index.m3u8
-#EXTINF:0 group-title="体育频道" tvg-id="6582" tvg-logo="http://epg.it999.ru/img/6582.png",ESPN 
-http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/19156/index.m3u8
 #EXTINF:0 group-title="体育频道" tvg-id="6562" tvg-logo="http://epg.it999.ru/img/6562.png",SKY SPORT NBA
 http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/19134/index.m3u8
 #EXTINF:0 group-title="体育频道" tvg-id="3880" tvg-logo="http://epg.it999.ru/img/3880.png",beIN Sports Max 1 
@@ -1134,52 +1132,17 @@ http://fl2.moveonjoy.com/TV_ONE/index.m3u8
 http://streamsy.online:2999/live/juanv/04bodwaga0/153.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/univision.png" group-title="美洲频道",Univision
 http://streamsy.online:2999/live/juanv/04bodwaga0/1522.m3u8
-#EXTINF:0 tvg-id="AXN.it" group-title="美洲频道",AXN HD
-http://voz.one:80/saulof0nt30_5/jCvUTjHyjf5K/425
-#EXTINF:0 tvg-id="CineMAX.ro" group-title="美洲频道",CINEMAX FHD
-http://voz.one:80/saulof0nt30_5/jCvUTjHyjf5K/427
-#EXTINF:0 tvg-id="set" group-title="美洲频道",SONY HD
-http://voz.one:80/saulof0nt30_5/jCvUTjHyjf5K/455
-#EXTINF:0 tvg-id="StarChannel.br" group-title="美洲频道",STAR CHANNEL FHD
-http://voz.one:80/saulof0nt30_5/jCvUTjHyjf5K/430
-#EXTINF:0 tvg-id="Universalchannel.br" group-title="美洲频道",UNIVERSAL TV FHD
-http://voz.one:80/saulof0nt30_5/jCvUTjHyjf5K/475
 #EXTINF:0 tvg-id="ext" group-title="美洲频道",Band 4K
 http://voz.one:80/saulof0nt30_5/jCvUTjHyjf5K/218
-#EXTINF:0 tvg-id="ext" group-title="美洲频道",TNT 4K
-http://voz.one:80/saulof0nt30_5/jCvUTjHyjf5K/223
-#EXTINF:0 tvg-id="animal-hd" group-title="美洲频道",ANIMAL PLANET FHD
-http://voz.one:80/saulof0nt30_5/jCvUTjHyjf5K/1
 #EXTINF:0 tvg-id="Fishtv.br" group-title="美洲频道",FISH TV FHD
 http://voz.one:80/saulof0nt30_5/jCvUTjHyjf5K/25
 #EXTINF:0 tvg-id="Arte1.br" group-title="美洲频道",ARTE 1 FHD
 http://voz.one:80/saulof0nt30_5/jCvUTjHyjf5K/787
-#EXTINF:0 tvg-id="NickJrHD.us" group-title="美洲频道",NICK JR FHD
-http://voz.one:80/saulof0nt30_5/jCvUTjHyjf5K/646
 #EXTINF:0 tvg-id="ext" group-title="美洲频道",BAND CAMPINAS FHD
 http://voz.one:80/saulof0nt30_5/jCvUTjHyjf5K/242
 #EXTINF:0 tvg-id="ext" group-title="美洲频道",JP NEWS FHD
 http://voz.one:80/saulof0nt30_5/jCvUTjHyjf5K/71488
-#EXTINF:0 tvg-id="ESPN.uk" group-title="美洲频道",ESPN FHD
-http://voz.one:80/saulof0nt30_5/jCvUTjHyjf5K/363
-#EXTINF:0 tvg-id="HBO2.pl" group-title="美洲频道",HBO 2 FHD
-http://voz.one:80/saulof0nt30_5/jCvUTjHyjf5K/594
-#EXTINF:0 tvg-id="Maxup.br" group-title="美洲频道",HBO POP FHD
-http://voz.one:80/saulof0nt30_5/jCvUTjHyjf5K/608
-#EXTINF:0 tvg-id="Hboplus.br" group-title="美洲频道",HBO PLUS FHD
-http://voz.one:80/saulof0nt30_5/jCvUTjHyjf5K/605
-#EXTINF:0 tvg-id="HBOSignature.us" group-title="美洲频道",HBO SIGNATURE FHD
-http://voz.one:80/saulof0nt30_5/jCvUTjHyjf5K/612
-#EXTINF:0 tvg-id="ext" group-title="美洲频道",RECORD GOIAS FHD
-http://voz.one:80/saulof0nt30_5/jCvUTjHyjf5K/258096
-#EXTINF:0 tvg-id="ext" group-title="美洲频道",SBT RJ FHD
-http://voz.one:80/saulof0nt30_5/jCvUTjHyjf5K/308
-#EXTINF:0 tvg-id="sporttv2.pt" group-title="美洲频道",SPORTV 2 FHD
-http://voz.one:80/saulof0nt30_5/jCvUTjHyjf5K/737
-#EXTINF:0 tvg-id="Tcaction.br" group-title="美洲频道",TELECINE ACTION HD
-http://voz.one:80/saulof0nt30_5/jCvUTjHyjf5K/799
-#EXTINF:0 tvg-id="Tcfun.br" group-title="美洲频道",TELECINE FUN FHD
-http://voz.one:80/saulof0nt30_5/jCvUTjHyjf5K/804
+
 
 
 
