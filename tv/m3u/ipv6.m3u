@@ -52,6 +52,22 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
 http://sc.rrs.169ol.com/PLTV/88888888/224/3221227577/index.m3u8
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+#EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://live.fanmingming.com/tv/兵器科技.png" group-title="央视频道",兵器科技
+http://www.lizhinas.top:8688/rtp/239.252.219.98:5140%24%E6%B1%9F%E8%A5%BFcmc3+
+#EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://live.fanmingming.com/tv/第一剧场.png" group-title="央视频道",第一剧场
+http://www.lizhinas.top:8688/rtp/239.252.219.86:5140%24%E6%B1%9F%E8%A5%BFcmc3+
+#EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/怀旧剧场.png" group-title="央视频道",怀旧剧场
+http://www.lizhinas.top:8688/rtp/239.252.219.90:5140%24%E6%B1%9F%E8%A5%BFcmc3+
+#EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="央视频道",风云足球
+http://www.lizhinas.top:8688/rtp/239.252.219.96:5140%24%E6%B1%9F%E8%A5%BFcmc3+
+#EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://live.fanmingming.com/tv/世界地理.png" group-title="央视频道",世界地理
+http://www.lizhinas.top:8688/rtp/239.252.219.93:5140%24%E6%B1%9F%E8%A5%BFcmc3+
+#EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://live.fanmingming.com/tv/央视台球.png" group-title="央视频道",央视台球
+http://www.lizhinas.top:8688/rtp/239.252.219.80:5140%24%E6%B1%9F%E8%A5%BFcmc3+
+#EXTINF:-1 tvg-id="央视高网" tvg-name="央视高网" tvg-logo="https://live.fanmingming.com/tv/央视高网.png" group-title="央视频道",央视高网
+http://www.lizhinas.top:8688/rtp/239.252.219.95:5140%24%E6%B1%9F%E8%A5%BFcmc3+
+#EXTINF:-1 tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://live.fanmingming.com/tv/文化精品.png" group-title="央视频道",文化精品
+http://www.lizhinas.top:8688/rtp/239.252.219.81:5140%24%E6%B1%9F%E8%A5%BFcmc3+
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="央视频道",CETV1
 http://sc.rrs.169ol.com/PLTV/88888888/224/3221227339/index.m3u8
 #EXTINF:-1 tvg-name="中国交通" tvg-logo="https://live.fanmingming.com/tv/中国交通.png" group-title="央视频道",中国交通
@@ -872,7 +888,7 @@ https://livefta.malimarcdn.com/ftaedge00/khmertv2020.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="MRTV.mm" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/MRTV_logo.png" group-title="亚洲频道",MRTV缅甸
 https://5a13fe32ef748.streamlock.net/mmplay/mrtv/playlist.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TV5_%28Philippines%29_logo.svg/1024px-TV5_%28Philippines%29_logo.svg.png" group-title="亚洲频道" , TV5菲律宾
-http://user.scalecdn.co:8080/832396169/832396169/546800
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp_6.m3u8
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
 #EXTINF:-1 group-title="亚洲频道" tvg-id="vtv1" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1越南
 http://p1.cvtv.xyz/vtv1?token=live
@@ -940,10 +956,12 @@ http://xtv.ooo:8080/irfan74819/iqbal847291/351120
 http://rhsbjv7k.tvclub.xyz/iptv/T7DRNUUUKCQLH6/6567/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-id="3506" tvg-logo="http://epg.it999.ru/img/3506.png" tvg-rec="0",SUN TV印度
 http://rhsbjv7k.tvclub.xyz/iptv/T7DRNUUUKCQLH6/6621/index.m3u8
-#EXTINF:-1 tvg-name="Raja Tv" group-title="亚洲频道" tvg-logo="http://tnm3u.live/icon/telugu/rajatv.png",Raja Tv印度
-https://tnm3u.in.net/channel/telugu.php?c=rajatv
-#EXTINF:-1 tvg-name="" group-title="亚洲频道" tvg-logo="http://tnm3u.live/icon/kannada/local/basava.png",Basava Tv印度
-https://tnm3u.in.net/channel/kannada.php?c=basavatv
+#EXTINF:-1 tvg-id="StarPlus.in" tvg-name="IND | STAR PLUS" tvg-logo="https://static.epg.best/in/StarPlus.in.png" group-title="亚洲频道",STAR PLUS印度
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/20252
+#EXTINF:-1 tvg-id="" tvg-name="Bangla | BTV" tvg-logo="https://i.imgur.com/5OE2FDt.png" group-title="亚洲频道",BTV孟加拉
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/83523
+#EXTINF:-1 tvg-id="10Bold.au" tvg-name="Bangla |  Channel I " tvg-logo="https://i.imgur.com/X0JJlOX.png" group-title="亚洲频道",Channel I 孟加拉
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/83530
 #EXTINF:0 group-title="亚洲频道" tvg-id="3533" tvg-logo="http://epg.it999.ru/img/3533.png" tvg-rec="0",ARY News巴基斯坦
 http://rhsbjv7k.tvclub.xyz/iptv/T7DRNUUUKCQLH6/6720/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-id="3532" tvg-logo="http://epg.it999.ru/img/3532.png",ARY Digital巴基斯坦
