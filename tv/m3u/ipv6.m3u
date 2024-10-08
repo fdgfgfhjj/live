@@ -162,7 +162,7 @@ http://221.10.168.132/PLTV/88888888/224/3221227938/1.m3u8
 #EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://live.fanmingming.com/tv/安多卫视.png" group-title="卫视高清",安多卫视
 http://221.10.168.132/PLTV/88888888/224/3221227121/1.m3u8
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="卫视高清",陕西卫视
-http://sc.rrs.169ol.com/PLTV/88888888/224/3221227127/index.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8
 #EXTINF:-1 tvg-name="四川文化旅游" tvg-logo="https://live.fanmingming.com/tv/四川文化旅游.png" group-title="四川本地",四川文化旅游
 http://sc.rrs.169ol.com/PLTV/88888888/224/3221227413/index.m3u8
 http://118.122.2.29:9999/hls/52/index.m3u8
