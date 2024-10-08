@@ -790,12 +790,12 @@ http://60.246.171.122:8891/bysid/94
 rtmp://f13h.mine.nu/sat/tv091
 https://haoyunlai.serv00.net/Smartv-1.php?id=zhongshihd_twn
 #EXTINF:-1 tvg-id="7135" group-title="港台频道" tvg-logo="https://s2.loli.net/2024/01/28/PyanpXBFZELQzom.png",民视
+http://23.224.49.18:8866/haiou.php?id=4gtv-4gtv002
 http://37.27.111.214:8080/live/6/hls.m3u8
-https://haoyunlai.serv00.net/Smartv-1.php?id=ftvhd_taiwan
 rtmp://f13h.mine.nu/sat/tv051
 #EXTINF:-1 tvg-id="6031" group-title="港台频道" tvg-logo="https://s2.loli.net/2024/07/14/djX843QUhrnC5Nx.png",台视
+http://23.224.49.18:8866/haiou.php?id=4gtv-4gtv066
 rtmp://220.130.201.73/sat/tv071
-https://haoyunlai.serv00.net/Smartv-1.php?id=ttv_taiwan
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/%E5%8D%8E%E8%A7%86.png" group-title="港台频道",华视
 rtmp://f13h.mine.nu/sat/tv111
 https://haoyunlai.serv00.net/Smartv-1.php?id=ctshd_twn
@@ -804,17 +804,8 @@ rtmp://f13h.mine.nu/sat/tv331
 rtmp://220.130.201.73/sat/tv331
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/%E4%B8%9C%E6%A3%AE%E6%88%8F%E5%89%A7.png" group-title="港台频道",东森戏剧
 https://haoyunlai.serv00.net/Smartv-1.php?id=ettvdrama
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/%E4%B8%9C%E6%A3%AE%E6%B4%8B%E7%89%87.png" group-title="港台频道",东森洋片
-https://haoyunlai.serv00.net/Smartv-1.php?id=ettvwestern
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/%E4%B8%9C%E6%A3%AE%E7%BB%BC%E5%90%88.png" group-title="港台频道",东森综合
-https://haoyunlai.serv00.net/Smartv-1.php?id=ettvzhonghe
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/%E7%BA%AC%E6%9D%A5%E6%97%A5%E6%9C%AC.png" group-title="港台频道",纬来日本
-https://haoyunlai.serv00.net/Smartv-1.php?id=videolandjapan
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/%E7%BA%AC%E6%9D%A5%E4%BD%93%E8%82%B2.png" group-title="港台频道",纬来体育
-https://haoyunlai.serv00.net/Smartv-1.php?id=videolandsport
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/EYE%20TV%E6%88%8F%E5%89%A7%E5%8F%B0.png" group-title="港台频道",EYE戲劇
-https://haoyunlai.serv00.net/Smartv-1.php?id=eyetvxiju_twn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/TVBS.png" group-title="港台频道",TVBS HD
+http://23.224.49.18:8866/haiou.php?id=4gtv-4gtv068
 http://37.27.111.214:8080/live/23/hls.m3u8
 https://haoyunlai.serv00.net/Smartv-1.php?id=tvbs
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/TVBS%E6%AC%A2%E4%B9%90%E5%8F%B0.png" group-title="港台频道",TVBS歡樂台
@@ -827,12 +818,13 @@ https://haoyunlai.serv00.net/Smartv-1.php?id=badafirst
 http://37.27.111.214:8080/live/21/hls.m3u8
 https://haoyunlai.serv00.net/Smartv-1.php?id=badazhonghe
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/%E6%B0%91%E8%A7%86%E7%AC%AC%E4%B8%80%E5%8F%B0.png" group-title="港台频道",民視第一台
+http://23.224.49.18:8866/haiou.php?id=4gtv-4gtv003
 http://37.27.111.214:8080/live/4/hls.m3u8
-https://haoyunlai.serv00.net/Smartv-1.php?id=lunghuajingdian_twn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/%E6%B0%91%E8%A7%86%E5%8F%B0%E6%B9%BE%E5%8F%B0.png" group-title="港台频道",民視台灣台
+http://23.224.49.18:8866/haiou.php?id=4gtv-4gtv156
 http://37.27.111.214:8080/live/5/hls.m3u8
-https://haoyunlai.serv00.net/Smartv-1.php?id=ftvtaiwan_twn
 #EXTINF:-1 tvg-logo="https://iptv-pro.github.io/logo/%E6%B0%91%E8%A7%86%E7%BB%BC%E8%89%BA%E5%8F%B0.png" group-title="港台频道",民视综艺
+http://23.224.49.18:8866/haiou.php?id=4gtv-4gtv004
 http://37.27.111.214:8080/live/67/hls.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/%E4%B8%89%E7%AB%8B%E5%8F%B0%E6%B9%BE%E5%8F%B0.png" group-title="港台频道",三立台灣台
 https://haoyunlai.serv00.net/Smartv-1.php?id=sanlitaiwan
@@ -845,6 +837,7 @@ https://haoyunlai.serv00.net/Smartv-1.php?id=sanlizhonghe
 http://61.221.215.25:8800/hls/47/index.m3u8
 https://haoyunlai.serv00.net/Smartv-1.php?id=ctient
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB.png" group-title="港台频道",中天新聞HD
+http://23.224.49.18:8866/haiou.php?id=4gtv-4gtv009
 https://haoyunlai.serv00.net/Smartv-1.php?id=ctinews
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/%E4%B8%AD%E5%A4%A9%E7%BB%BC%E5%90%88%E5%8F%B0.png" group-title="港台频道",中天綜合
 https://haoyunlai.serv00.net/Smartv-1.php?id=ctizhonghe
@@ -868,9 +861,21 @@ http://extraott.com:80/live/7921751389/6097373662/5493.m3u8
 #EXTINF:-1,tvg-id="东森美洲台" tvg-name="东森美洲台" tvg-logo="https://epg.112114.xyz/logo/ETNEWS.png" group-title="港台频道",东森美洲
 http://extraott.com:80/live/7921751389/6097373662/473538.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-pro.github.io/logo/%E4%B8%AD%E8%A7%86%E7%BB%8F%E5%85%B8.png" group-title="港台频道",中视经典
+http://23.224.49.18:8866/haiou.php?id=4gtv-4gtv080
 http://37.27.111.214:8080/live/47/hls.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-pro.github.io/logo/%E4%B8%AD%E8%A7%86%E8%8F%81%E9%87%87%E5%8F%B0.png" group-title="港台频道",中视青采
+http://23.224.49.18:8866/haiou.php?id=4gtv-4gtv064
 http://37.27.111.214:8080/live/48/hls.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/%E4%B8%9C%E6%A3%AE%E6%B4%8B%E7%89%87.png" group-title="港台频道",东森洋片
+https://haoyunlai.serv00.net/Smartv-1.php?id=ettvwestern
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/%E4%B8%9C%E6%A3%AE%E7%BB%BC%E5%90%88.png" group-title="港台频道",东森综合
+https://haoyunlai.serv00.net/Smartv-1.php?id=ettvzhonghe
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/%E7%BA%AC%E6%9D%A5%E6%97%A5%E6%9C%AC.png" group-title="港台频道",纬来日本
+https://haoyunlai.serv00.net/Smartv-1.php?id=videolandjapan
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/%E7%BA%AC%E6%9D%A5%E4%BD%93%E8%82%B2.png" group-title="港台频道",纬来体育
+https://haoyunlai.serv00.net/Smartv-1.php?id=videolandsport
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/EYE%20TV%E6%88%8F%E5%89%A7%E5%8F%B0.png" group-title="港台频道",EYE戲劇
+https://haoyunlai.serv00.net/Smartv-1.php?id=eyetvxiju_twn
 #EXTINF:-1 tvg-name="TV1🇲🇾" tvg-logo=https://iptv-pro.github.io/logo/TV1.png" group-title="亚洲频道",TV1马来西亚
 https://mifntechnology.github.io/siaranMy/channels/Tv1/index.m3u8
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
