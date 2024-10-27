@@ -776,9 +776,9 @@ https://cdn.iptv8k.top/dl/jspd.php?id=2
 http://php.jdshipin.com:8880/smt.php?id=inews_twn
 http://60.246.171.122:8892/bysid/83
 http://extraott.com:80/live/7921751389/6097373662/62824.m3u8
-#EXTINF:22 group-title="港台频道" tvg-id="aktv/hk-1" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", 美亞電影台(HK)
+#EXTINF:22 group-title="港台频道" tvg-id="aktv/hk-1" tvg-logo="" provider="AKTV" provider-logo="https://live.hkdvb.com/static/logos/802.png" provider-type="iptv", 美亞電影台(HK)
 http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
-#EXTINF:4 group-title="港台频道" tvg-id="aktv/popc" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", PopC
+#EXTINF:4 group-title="港台频道" tvg-id="aktv/popc" tvg-logo="" provider="AKTV" provider-logo="https://live.hkdvb.com/static/logos/801.png" provider-type="iptv", PopC
 http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 #EXTINF:-1 tvg-id="7135" group-title="港台频道" tvg-logo="https://s2.loli.net/2024/01/28/PyanpXBFZELQzom.png",民视
 http://litv.zapi.us.kg/4gTV/?id=4gtv-4gtv002
