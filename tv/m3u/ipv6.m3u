@@ -1085,11 +1085,22 @@ http://xtv.ooo:8080/irfan74819/iqbal847291/351120
 http://rhsbjv7k.tvclub.xyz/iptv/T7DRNUUUKCQLH6/6567/index.m3u8
 #EXTINF:0 group-title="亚洲频道" tvg-id="3506" tvg-logo="http://epg.it999.ru/img/3506.png" tvg-rec="0",SUN TV印度
 http://rhsbjv7k.tvclub.xyz/iptv/T7DRNUUUKCQLH6/6621/index.m3u8
-#EXTINF:-1 tvg-id="StarPlus.in" tvg-name="IND | STAR PLUS" tvg-logo="https://static.epg.best/in/StarPlus.in.png" group-title="亚洲频道",STAR PLUS印度
-http://nv1connect.com:80/tamtam/tjfYkCbP3s/20252
-#EXTINF:-1 tvg-id="" tvg-name="Bangla | BTV" tvg-logo="https://i.imgur.com/5OE2FDt.png" group-title="亚洲频道",BTV孟加拉
-http://nv1connect.com:80/tamtam/tjfYkCbP3s/83523
+#EXTINF:-1 group-title="亚洲频道" tvg-logo="https://static.epg.best/sg/ZeeTV.sg.png" tvg-id="zeetvhd.in" ,Zee TV印度
+http://xtv.ooo:8080/810523/322522/109950
+http://xtv.ooo:8080/810523/322522/66163
+#EXTINF:-1 group-title="亚洲频道" tvg-logo="https://static.epg.best/nz/StarPlusHindi.nz.png" tvg-id="starplushd.in" ,Star Plus印度
+http://xtv.ooo:8080/810523/322522/109949
+http://xtv.ooo:8080/810523/322522/66208
+#EXTINF:-1 group-title="亚洲频道" tvg-logo="https://static.epg.best/gb/Colors.uk.png" tvg-id="colorshd.in" ,Colors
+http://xtv.ooo:8080/810523/322522/109947
+http://xtv.ooo:8080/810523/322522/66168
+#EXTINF:-1 group-title="亚洲频道" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sony_SAB_%28TV%29.png" tvg-id="sonysabhd.in" ,SONY SAB印度
+http://xtv.ooo:8080/810523/322522/109953
+http://xtv.ooo:8080/810523/322522/104194
+#EXTINF:-1 group-title="亚洲频道" tvg-logo="http://openboxv8s.com/india/zee_bangla.jpg" tvg-id="zeebanglahd.in" ,Zee Bangla孟加拉
+http://xtv.ooo:8080/810523/322522/245893
 #EXTINF:-1 tvg-id="10Bold.au" tvg-name="Bangla |  Channel I " tvg-logo="https://i.imgur.com/X0JJlOX.png" group-title="亚洲频道",Channel I 孟加拉
+http://xtv.ooo:8080/810523/322522/245913
 http://nv1connect.com:80/tamtam/tjfYkCbP3s/83530
 #EXTINF:0 group-title="亚洲频道" tvg-id="3533" tvg-logo="http://epg.it999.ru/img/3533.png" tvg-rec="0",ARY News巴基斯坦
 http://rhsbjv7k.tvclub.xyz/iptv/T7DRNUUUKCQLH6/6720/index.m3u8
