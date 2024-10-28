@@ -372,10 +372,8 @@ http://rhsbjv7k.tvclub.xyz/iptv/T7DRNUUUKCQLH6/7284/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-id="4500" tvg-logo="http://epg.it999.ru/img/4500.png" tvg-rec="0",POLSAT DOKU波兰
 http://rhsbjv7k.tvclub.xyz/iptv/T7DRNUUUKCQLH6/7300/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-id="6457" tvg-logo="http://epg.it999.ru/img/6457.png",Rai 1意大利
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=56372&extension=ts&play_token=AzRaNr1H1D&sn2=
 http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/19081/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-id="6459" tvg-logo="http://epg.it999.ru/img/6459.png",RAI 3意大利
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=136679&extension=ts&play_token=QeHcJqTxGn&sn2=
 http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/19083/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://foruda.gitee.com/images/1723568156580026893/f4a3adc0_13827851.jpeg" group-title="欧洲频道",RAI 2意大利
 http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=136677&extension=ts&play_token=LMvUOp4Xbl&sn2=
@@ -392,12 +390,10 @@ http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=136671&exte
 #EXTINF:-1 tvg-id="LA 1" tvg-name="ES: LA 1 FHD" tvg-logo="http://paradyse.xyz:8880/images/920381108317386d5faa0f842a5366dc.png" group-title="欧洲频道",LA 1西班牙
 http://paradyse.xyz:8880/aAz3eTHFrufC/5mNwtuGv5uqA/3426
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://foruda.gitee.com/images/1723569046840315290/4d82963c_13827851.png" group-title="欧洲频道",LA 2西班牙
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=55421&extension=ts&play_token=VbPwecDhZQ&sn2=
 http://paradyse.xyz:8880/aAz3eTHFrufC/5mNwtuGv5uqA/3427
 http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/111
 http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/147885.mpegts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://foruda.gitee.com/images/1723569068347337206/13a6ed7b_13827851.png" group-title="欧洲频道",TELECINCO西班牙
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=55427&extension=ts&play_token=BCHz3RX1AL&sn2=
 http://paradyse.xyz:8880/aAz3eTHFrufC/5mNwtuGv5uqA/3434
 http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/69
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://foruda.gitee.com/images/1723569084779046520/b8999bc1_13827851.png" group-title="欧洲频道",LA SEXTA西班牙
@@ -407,15 +403,12 @@ http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/63
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://foruda.gitee.com/images/1723569102019898942/2469935c_13827851.png" group-title="欧洲频道",ATRESSERIES西班牙
 http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=55431&extension=ts&play_token=0kcEMd84K9&sn2=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://foruda.gitee.com/images/1723569117223531487/5cc98e38_13827851.png" group-title="欧洲频道",NOVA西班牙
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=55437&extension=ts&play_token=tQwI4Sh5lG&sn2=
 http://paradyse.xyz:8880/aAz3eTHFrufC/5mNwtuGv5uqA/33032
 http://2024.cdngold.pro:80/9HdrLyT4RcC4/0tLqxkoXIX/26
 http://play.1list.vip/live/lucaslopes6292/xuzedrksc0b/147888.mpegts
 #EXTINF:-1 tvg-id="rtp1.pt" tvg-name="PT: RTP 1 HD" tvg-logo="https://s.imgexpress.net/6f1fe3fa0b783cd90a0c46811be6ba5df6ff9cc8c21c4bf4145b5a47e06f68c1.png" group-title="欧洲频道",RTP 1葡萄牙
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=57049&extension=ts&play_token=qIXFHaI9XS&sn2=
 http://paradyse.xyz:8880/aAz3eTHFrufC/5mNwtuGv5uqA/4057
 #EXTINF:-1 tvg-id="rtp2.pt" tvg-name="PT: RTP 2 HD" tvg-logo="https://s.imgexpress.net/dee628735fc28baa691fcd96d676964eb33125055ca4aa2dcb223bb90eda57ba.png" group-title="欧洲频道",RTP 2葡萄牙
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=57051&extension=ts&play_token=F20nkl1jQR&sn2=
 http://paradyse.xyz:8880/aAz3eTHFrufC/5mNwtuGv5uqA/4059
 #EXTINF:-1 tvg-id="RTP3" tvg-name="PT: Rtp 3 FHD" tvg-logo="http://paradyse.xyz:8880/images/a868185365d061d707f29f4ed967143e.png" group-title="欧洲频道",RTP 3葡萄牙
 http://paradyse.xyz:8880/aAz3eTHFrufC/5mNwtuGv5uqA/30532
@@ -423,7 +416,6 @@ http://paradyse.xyz:8880/aAz3eTHFrufC/5mNwtuGv5uqA/30532
 http://paradyse.xyz:8880/aAz3eTHFrufC/5mNwtuGv5uqA/4073
 http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=461081&extension=ts&play_token=hS93b6Dqsn&sn2=
 #EXTINF:-1 tvg-id="TVI.pt" tvg-name="PT: TVI HD" tvg-logo="https://s.imgexpress.net/4a23035e4636ae0a952dacf1cc1a76db2099eef99c1540241fbd645d22ceafb8.png" group-title="欧洲频道",TVI葡萄牙
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=57062&extension=ts&play_token=RglR0mCSbo&sn2=
 http://paradyse.xyz:8880/aAz3eTHFrufC/5mNwtuGv5uqA/4115
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://foruda.gitee.com/images/1723566652141457714/197273db_13827851.png" group-title="欧洲频道",Tipik比利时
 http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=136560&extension=ts&play_token=fDo3gLcolu&sn2=
@@ -463,7 +455,6 @@ http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=57542&exten
 http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/2301/index.m3u8
 http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=57554&extension=ts&play_token=Ea3lPwZpKD&sn2=
 #EXTINF:0 group-title="欧洲频道" tvg-id="2608" tvg-logo="https://i.ibb.co/Rv0rWhZ/show.png" ="3",Show TV土耳其
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=57548&extension=ts&play_token=vWnM1LEx4m&sn2=
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/2307/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-id="2744" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/TRT_4K_logo.svg/2560px-TRT_4K_logo.svg.png" ="3",TRT 4K
