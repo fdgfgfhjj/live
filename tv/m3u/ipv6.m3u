@@ -439,10 +439,12 @@ http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=205451&exte
 http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=205449&extension=ts&play_token=4eJVu1CPw5&sn2=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://foruda.gitee.com/images/1723570590819484629/e12e216c_13827851.png" group-title="欧洲频道",BTV Cinema保加利亚
 http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=205448&extension=ts&play_token=rSLgKRAT0H&sn2=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://foruda.gitee.com/images/1723571152657879354/29cad726_13827851.png" group-title="欧洲频道",EPT 3希腊
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=373428&extension=ts&play_token=9jfaASsnNx&sn2=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://foruda.gitee.com/images/1723571183473110486/452b6ba8_13827851.png" group-title="欧洲频道",Mega希腊
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=373434&extension=ts&play_token=O2IEX6ynuV&sn2=
+#EXTINF:-1 tvg-name="ertnews"tvg-id=""tvg-logo="https://shorturl.at/gCEN6"group-title="欧洲频道",ERT NEWS希腊
+https://ertflix.s.llnwi.net/ertlive/ertnews/default/ERTNews-audio_104621_und=104400-video=5000000.m3u8
+#EXTINF:-1 tvg-name="ert.vouli.gr"tvg-id=""tvg-logo="https://shorturl.at/iEIK1"group-title="欧洲频道",VOULI希腊
+https://dev.aftermind.xyz/hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEqx
+#EXTINF:-1 tvg-name="ertworld"tvg-id=""tvg-logo="https://rb.gy/z5hju9"group-title=欧洲频道"",ERT WORLD希腊
+https://ertflix.s.llnwi.net/ertlive/ertworld/default/ERTWorld-audio_104621_und=104400-video=5000000.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-id="2598" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/10660277.png" ="3",TRT 1土耳其
 http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/2293/index.m3u8
 http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=57535&extension=ts&play_token=8dvbTDIzxb&sn2=
@@ -990,11 +992,23 @@ http://extraott.com:80/live/7921751389/6097373662/473538.m3u8
 #EXTINF:-1 tvg-logo="https://iptv-pro.github.io/logo/%E4%B8%AD%E8%A7%86%E7%BB%8F%E5%85%B8.png" group-title="港台频道",中视经典
 http://37.27.111.214:8080/live/47/hls.m3u8
 #EXTINF:-1 tvg-name="TV1🇲🇾" tvg-logo=https://iptv-pro.github.io/logo/TV1.png" group-title="亚洲频道",TV1马来西亚
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+#EXTVLCOPT:http-user-agent=RTMKlik/3.0.54 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd?id=1
 https://mifntechnology.github.io/siaranMy/channels/Tv1/index.m3u8
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b2596000_slENG.m3u8?id=1
+#EXTINF:-1 tvg-id="tv2.my" tvg-logo="https://iptv.urfan.id/logo/tv2.png" group-title="亚洲频道",TV2马来西亚
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+#EXTVLCOPT:http-user-agent=RTMKlik/3.0.54 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd?id=2
+#EXTINF:-1 tvg-id="TV6" tvg-logo="https://iptv.urfan.id/logo/tv6.png" group-title="亚洲频道",TV6马来西亚
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+#EXTVLCOPT:http-user-agent=RTMKlik/3.0.54 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd?id=6
 #EXTINF:-1 group-title="亚洲频道" tvg-id="8TV" tvg-name="8TV" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/8tv.png",8TV
 https://mifntechnology.github.io/siaranMy/channels/8tv/index.m3u8
+#EXTINF:-1 tvg-id="mewatchlive1.sg" tvg-logo="https://iptv.urfan.id/logo/mewatch.png" group-title="亚洲频道",mewatch Live 1新加坡
+#EXTVLCOPT:http-user-agent=mewatch/6.86.102 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
 #EXTINF:-1 tvg-chno="5" tvg-id="TV5 HD.th" tvg-name="TV5 HD" group-title="亚洲频道" tvg-logo="https://iptv36.my.to/logo/tv5.png",TV5泰国
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 #EXTINF:-1 tvg-name="CH3 HD🇹🇭" tvg-logo="https://iptv36.my.to/logo/ch3.png" group-title="亚洲频道",CH3 HD泰国
@@ -1119,12 +1133,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/20195/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/20200/index.m3u8
 #EXTINF:0 tvg-id="Turkmenistan.tm" tvg-logo="https://i.imgur.com/cmjDco7.png" group-title="亚洲频道",Türkmenistan土库曼
 https://alpha.tv.online.tm/hls/ch007_720/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://foruda.gitee.com/images/1723576677724863838/8701d446_13827851.png" group-title="亚洲频道",TV6阿尔及利亚
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=437546&extension=ts&play_token=5pFNTJ53QL&sn2=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://foruda.gitee.com/images/1723576623318144269/8a2486a3_13827851.png" group-title="亚洲频道",Canal Algerie阿尔及利亚
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=97647&extension=ts&play_token=bRNsdKQMeA&sn2=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://foruda.gitee.com/images/1723576695630992624/a1a8657e_13827851.png" group-title="亚洲频道",Al Aoula Inter摩洛哥
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=97633&extension=ts&play_token=4oPSegP709&sn2=
 #EXTINF:-1 tvg-name="C1🇲🇳" tvg-logo="https://www.lyngsat.com/logo/tv/cc/c1_mn.png" group-title="亚洲频道",C1蒙古
 https://cdn2.skygo.mn/live/disk1/C1/HLS-FTA/C1.m3u8
 #EXTINF:-1 tvg-name="Moviebox🇲🇳" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movie_box_mn.png" group-title="亚洲频道",Moviebox蒙古
