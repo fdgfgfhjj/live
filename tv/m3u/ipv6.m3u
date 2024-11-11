@@ -270,6 +270,12 @@ http://rhsbjv7k.tvclub.xyz/iptv/T7DRNUUUKCQLH6/213/index.m3u8
 http://lsjanihv.klaipedalt.xyz/iptv/TPB9PL6BAVCTRY37X2CSG6XX/213/index.m3u
 #EXTINF:0 group-title="欧洲频道" tvg-id="649" tvg-logo="http://epg.it999.ru/img/649.png" tvg-rec="0",ТВЦ俄
 http://rhsbjv7k.tvclub.xyz/iptv/T7DRNUUUKCQLH6/19222/index.m3u8
+#EXTINF:0 group-title="欧洲频道" tvg-id="726" tvg-logo="http://epg.it999.ru/img/726.png" tvg-rec="0",Мир俄
+http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/18037/index.m3u8
+#EXTINF:0 group-title="欧洲频道" tvg-id="698" tvg-logo="http://epg.it999.ru/img/698.png" tvg-rec="3",ТВ3俄
+http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/5033/index.m3u8
+#EXTINF:0 group-title="欧洲频道" tvg-id="18" tvg-logo="http://epg.it999.ru/img/2487.png" tvg-rec="7",Рен ТВ俄
+http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/2024/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-id="2538" tvg-logo="http://epg.it999.ru/img/2538.png" ="3",Беларусь 1白俄
 http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/2178/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-id="2539" tvg-logo="http://epg.it999.ru/img/2539.png" ="3",Беларусь 2 白俄
@@ -326,8 +332,6 @@ https://v.trm.md/static/streaming-playlists/hls/6b3b523a-6a02-444c-8129-8354bbef
 #EXTINF:0 group-title="欧洲频道" tvg-id="2787" tvg-logo="http://epg.it999.ru/img/2787.png",Moldova 2摩尔多瓦
 http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/19439/index.m3u8
 https://v.trm.md/static/streaming-playlists/hls/937e4e0e-7174-4fb2-a299-480e68b49ecb/master.m3u8
-#EXTINF:0 group-title="欧洲频道" tvg-id="2764" tvg-logo="http://epg.it999.ru/img/2764.png" tvg-rec="0",Jurnal TV摩尔多瓦
-http://rhsbjv7k.tvclub.xyz/iptv/T7DRNUUUKCQLH6/19443/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-id="3280" tvg-logo="http://epg.it999.ru/img/3280.png" ="3",TV1 HD立陶宛
 http://rhsbjv7k.tvclub.xyz/iptv/T7DRNUUUKCQLH6/6357/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/6409/index.m3u8
@@ -347,6 +351,8 @@ http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/12011/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/6404/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-id="3715" tvg-logo="http://epg.it999.ru/img/3715.png" ="3",ZU TV 罗马尼亚
 http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/7034/index.m3u8
+#EXTINF:0 group-title="欧洲频道" tvg-id="3684" tvg-logo="http://epg.it999.ru/img/3684.png" tvg-rec="3",TVR 2罗马利亚
+http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/6942/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="欧洲频道",RTL德国
 http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/6062/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="欧洲频道",Sat.1德国
@@ -357,14 +363,35 @@ http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/6059/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/6057/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="欧洲频道",N-TV德国
 http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/7259/index.m3u8
-#EXTINF:0 group-title="欧洲频道" tvg-id="6649" tvg-logo="http://epg.it999.ru/img/6649.png",itv 3 +1英国
-http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/19187/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://foruda.gitee.com/images/1723567287037520720/94982674_13827851.png" group-title="欧洲频道",ITV 1英国
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=97037&extension=ts&play_token=Lym7Rh1VRr&sn2=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://foruda.gitee.com/images/1723567342312803885/1f4c1710_13827851.png" group-title="欧洲频道",Channel 4英国
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=97044&extension=ts&play_token=9VOxYxKEMm&sn2=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://foruda.gitee.com/images/1723567262072676887/bfd1106e_13827851.png" group-title="欧洲频道",Channel 5英国
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=97045&extension=ts&play_token=Zi9WvQXOA8&sn2=
+#EXTINF:0 group-title="欧洲频道" tvg-id="6591" tvg-logo="http://epg.it999.ru/img/6591.png" tvg-rec="0",BBC 1英
+http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/19176/index.m3u8
+#EXTINF:0 group-title="欧洲频道" tvg-id="6592" tvg-logo="http://epg.it999.ru/img/6592.png" tvg-rec="0",BBC 2英
+http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/19177/index.m3u8
+#EXTINF:0 group-title="欧洲频道" tvg-id="6647" tvg-logo="http://epg.it999.ru/img/6647.png" tvg-rec="0",itv 1英
+http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/19185/index.m3u8
+#EXTINF:0 group-title="欧洲频道" tvg-id="6648" tvg-logo="http://epg.it999.ru/img/6648.png" tvg-rec="0",itv 2英
+http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/19186/index.m3u8
+#EXTINF:0 group-title="欧洲频道" tvg-id="6649" tvg-logo="http://epg.it999.ru/img/6649.png" tvg-rec="0",itv 3 +1英
+http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/19187/index.m3u8
+#EXTINF:0 group-title="欧洲频道" tvg-id="6650" tvg-logo="http://epg.it999.ru/img/6650.png" tvg-rec="0",itv 4 +1英
+http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/19188/index.m3u8
+#EXTINF:0 group-title="欧洲频道" tvg-id="6652" tvg-logo="http://epg.it999.ru/img/6652.png" tvg-rec="0",itv BE英
+http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/19190/index.m3u8
+#EXTINF:0 group-title="欧洲频道" tvg-id="4517" tvg-logo="http://epg.it999.ru/img/4517.png",TV12瑞典
+http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/7353/index.m3u8
+#EXTINF:0 group-title="欧洲频道" tvg-id="4520" tvg-logo="http://epg.it999.ru/img/4520.png",Kanal 11 HD瑞典
+http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/7357/index.m3u8
+https://streamtv2.elitecomunicacion.cloud:3956/live/arabitvlive.m3u8
+#EXTINF:0 group-title="欧洲频道" tvg-id="4514" tvg-logo="http://epg.it999.ru/img/4514.png",SVT1瑞典
+http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/7350/index.m3u8
+#EXTINF:0 group-title="欧洲频道" tvg-id="4515" tvg-logo="http://epg.it999.ru/img/4515.png" tvg-rec="0",SVT2瑞典
+http://rhsbjv7k.tvclub.xyz/iptv/T7DRNUUUKCQLH6/7351/index.m3u8
+#EXTINF:0 group-title="欧洲频道" tvg-id="4518" tvg-logo="http://epg.it999.ru/img/4518.png",DR1丹麦
+http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/7354/index.m3u8
+#EXTINF:0 group-title="欧洲频道" tvg-id="4521" tvg-logo="http://epg.it999.ru/img/4521.png",Kanal 4 丹麦
+http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/7358/index.m3u8
+#EXTINF:0 group-title="欧洲频道" tvg-id="4519" tvg-logo="http://epg.it999.ru/img/4519.png",FE挪威
+http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/7356/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-id="3108" tvg-logo="http://epg.it999.ru/img/3108.png" ="3",Polsat 2波兰
 http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/6084/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-id="4486" tvg-logo="http://epg.it999.ru/img/4486.png",TVN 7波兰
@@ -373,8 +400,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/7279/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/7293/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-id="4489" tvg-logo="http://epg.it999.ru/img/4489.png" tvg-rec="0",TVP 3 Warszawa波兰
 http://rhsbjv7k.tvclub.xyz/iptv/T7DRNUUUKCQLH6/7284/index.m3u8
-#EXTINF:0 group-title="欧洲频道" tvg-id="4500" tvg-logo="http://epg.it999.ru/img/4500.png" tvg-rec="0",POLSAT DOKU波兰
-http://rhsbjv7k.tvclub.xyz/iptv/T7DRNUUUKCQLH6/7300/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-id="2598" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/10660277.png" ="3",TRT 1土耳其
 http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/2293/index.m3u8
 http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=57535&extension=ts&play_token=8dvbTDIzxb&sn2=
@@ -399,14 +424,14 @@ http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=57562&exten
 http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=57569&extension=ts&play_token=MTkwr8eS76&sn2=
 #EXTINF:0 group-title="欧洲频道" tvg-id="6457" tvg-logo="http://epg.it999.ru/img/6457.png",Rai 1意大利
 http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/19081/index.m3u8
+#EXTINF:0 group-title="欧洲频道" tvg-id="6458" tvg-logo="http://epg.it999.ru/img/6458.png" tvg-rec="0",Rai 2意大利
+http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/19082/index.m3u8
 #EXTINF:0 group-title="欧洲频道" tvg-id="6459" tvg-logo="http://epg.it999.ru/img/6459.png",RAI 3意大利
 http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/19083/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://foruda.gitee.com/images/1723568156580026893/f4a3adc0_13827851.jpeg" group-title="欧洲频道",RAI 2意大利
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=136677&extension=ts&play_token=LMvUOp4Xbl&sn2=
-#EXTINF:0 group-title="欧洲频道" tvg-id="5120" tvg-logo="http://epg.it999.ru/img/5120.png",Rai 4K意大利
-http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/19091/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/vy0Lify.png" group-title="欧洲频道",RAI 5意大利
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=56383&extension=ts&play_token=ExAMzcAdEh&sn2=
+#EXTINF:0 group-title="欧洲频道" tvg-id="6460" tvg-logo="http://epg.it999.ru/img/6460.png" tvg-rec="0",Rai 4意大利
+http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/19084/index.m3u8
+#EXTINF:0 group-title="欧洲频道" tvg-id="6461" tvg-logo="http://epg.it999.ru/img/6461.png" tvg-rec="0",Rai 5意大利
+http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/19085/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://foruda.gitee.com/images/1723568172805347608/05af507e_13827851.png" group-title="欧洲频道",ITALIA 1 
 http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=136673&extension=ts&play_token=jtyiHJws2k&sn2=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://foruda.gitee.com/images/1723568214357004414/63bc1d04_13827851.png" group-title="欧洲频道",RETE 4意大利
@@ -493,21 +518,6 @@ http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=213477&exte
 http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=213475&extension=ts&play_token=4OKCkzrkGD&sn2=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="欧洲频道",Duna HD匈牙利
 http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=213437&extension=ts&play_token=wBvdHzFvtq&sn2=
-#EXTINF:0 group-title="欧洲频道" tvg-id="4517" tvg-logo="http://epg.it999.ru/img/4517.png",TV12瑞典
-http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/7353/index.m3u8
-#EXTINF:0 group-title="欧洲频道" tvg-id="4520" tvg-logo="http://epg.it999.ru/img/4520.png",Kanal 11 HD瑞典
-http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/7357/index.m3u8
-https://streamtv2.elitecomunicacion.cloud:3956/live/arabitvlive.m3u8
-#EXTINF:0 group-title="欧洲频道" tvg-id="4514" tvg-logo="http://epg.it999.ru/img/4514.png",SVT1瑞典
-http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/7350/index.m3u8
-#EXTINF:0 group-title="欧洲频道" tvg-id="4515" tvg-logo="http://epg.it999.ru/img/4515.png" tvg-rec="0",SVT2瑞典
-http://rhsbjv7k.tvclub.xyz/iptv/T7DRNUUUKCQLH6/7351/index.m3u8
-#EXTINF:0 group-title="欧洲频道" tvg-id="4518" tvg-logo="http://epg.it999.ru/img/4518.png",DR1丹麦
-http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/7354/index.m3u8
-#EXTINF:0 group-title="欧洲频道" tvg-id="4521" tvg-logo="http://epg.it999.ru/img/4521.png",Kanal 4 丹麦
-http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/7358/index.m3u8
-#EXTINF:0 group-title="欧洲频道" tvg-id="4519" tvg-logo="http://epg.it999.ru/img/4519.png",FE挪威
-http://rhsbjv7k.tvclub.xyz/iptv/SQNLRPBE7FFE8V/7356/index.m3u8
 #EXTINF:-1 tvg-id="19697" tvg-name="BHT 1 HD (L2)" tvg-logo="http://logo.smart-iptvpro.info/100.ba.png" group-title="欧洲频道",BHT 1 HD波黑
 http://iptvunited.org:8080/sgtiptvtelegram/telegramsgtiptv/19697
 #EXTINF:-1 tvg-id="29032213906" tvg-name="HAYAT HD" tvg-logo="http://iptvunited.org:8080/images/262d0cc15f07dac444135647a5f25a98.png" group-title="欧洲频道",HAYAT HD波黑
