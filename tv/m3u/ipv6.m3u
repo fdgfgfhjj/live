@@ -433,6 +433,15 @@ http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110720&exten
 http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110717&extension=ts&play_token=9oufyBBX9t
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="欧洲频道",HRT 4克罗地亚
 http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110715&extension=ts&play_token=w9EBFhUXmo
+#EXTINF:-1 tvg-id="29032214152" tvg-name="SLO 1 HD (SLO)" tvg-logo="http://iptvunited.org:8080/images/6bc44bf736056fecfd958fec6893cc83.png" group-title="欧洲频道",SLO 1 HD斯洛文尼亚
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110929&extension=ts&play_token=x7mbq5I5ek
+http://iptvunited.org:8080/sgtiptvtelegram/telegramsgtiptv/14152
+#EXTINF:-1 tvg-id="29032214153" tvg-name="SLO 2 HD (SLO)" tvg-logo="http://iptvunited.org:8080/images/6fc2c6c74f8cde43fc30d378e0aa502b.png" group-title="欧洲频道",SLO 2 HD斯洛文尼亚
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=110928&extension=ts&play_token=1cKOvIAvVy
+http://iptvunited.org:8080/sgtiptvtelegram/telegramsgtiptv/14153
+#EXTINF:-1 tvg-id="29032214154" tvg-name="SLO 3 HD (SLO)" tvg-logo="http://iptvunited.org:8080/images/7a479590246c63ab66eb97ebdd4cb6f2.png" group-title="欧洲频道",SLO 3 HD斯洛文尼亚
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:80:BB:24&stream=162086&extension=ts&play_token=wLxnfhCzMx
+http://iptvunited.org:8080/sgtiptvtelegram/telegramsgtiptv/14154
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://foruda.gitee.com/images/1723568172805347608/05af507e_13827851.png" group-title="欧洲频道",ITALIA 1 
 http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FB:38:AC&stream=136673&extension=ts&play_token=jtyiHJws2k&sn2=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://foruda.gitee.com/images/1723568214357004414/63bc1d04_13827851.png" group-title="欧洲频道",RETE 4意大利
@@ -525,12 +534,6 @@ http://iptvunited.org:8080/sgtiptvtelegram/telegramsgtiptv/5869
 http://iptvunited.org:8080/sgtiptvtelegram/telegramsgtiptv/5870
 #EXTINF:-1 tvg-id="5871" tvg-name="MPT 5 (MK)" tvg-logo="http://iptvunited.org:8080/images/a3016026f5d1da16b60b9814d78687e8.png" group-title="欧洲频道",MPT 5北马其顿
 http://iptvunited.org:8080/sgtiptvtelegram/telegramsgtiptv/5871
-#EXTINF:-1 tvg-id="29032214152" tvg-name="SLO 1 HD (SLO)" tvg-logo="http://iptvunited.org:8080/images/6bc44bf736056fecfd958fec6893cc83.png" group-title="欧洲频道",SLO 1 HD斯洛文尼亚
-http://iptvunited.org:8080/sgtiptvtelegram/telegramsgtiptv/14152
-#EXTINF:-1 tvg-id="29032214153" tvg-name="SLO 2 HD (SLO)" tvg-logo="http://iptvunited.org:8080/images/6fc2c6c74f8cde43fc30d378e0aa502b.png" group-title="欧洲频道",SLO 2 HD斯洛文尼亚
-http://iptvunited.org:8080/sgtiptvtelegram/telegramsgtiptv/14153
-#EXTINF:-1 tvg-id="29032214154" tvg-name="SLO 3 HD (SLO)" tvg-logo="http://iptvunited.org:8080/images/7a479590246c63ab66eb97ebdd4cb6f2.png" group-title="欧洲频道",SLO 3 HD斯洛文尼亚
-http://iptvunited.org:8080/sgtiptvtelegram/telegramsgtiptv/14154
 #EXTINF:-1 tvg-id="29032213821" tvg-name="ATV (AT)" tvg-logo="http://iptvunited.org:8080/images/81fc3b6f7e7317748c74a8b1e5f3fb3b.png" group-title="欧洲频道",ATV奥地利
 http://iptvunited.org:8080/sgtiptvtelegram/telegramsgtiptv/13821
 #EXTINF:-1 tvg-id="29032213820" tvg-name="ATV 2 (AT)" tvg-logo="http://iptvunited.org:8080/images/02aa51ad1947039accd25ebc9bb6478f.png" group-title="欧洲频道",ATV 2奥地利
